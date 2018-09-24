@@ -86,6 +86,9 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
   </action>
+  <action id="VimInsertExitMode">
+    <keyboard-shortcut first-keystroke="j" second-keystroke="j" />
+  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
   </action>
