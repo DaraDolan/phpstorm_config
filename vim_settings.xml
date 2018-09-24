@@ -3,26 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1537799148888">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_admin/dashboard/.env" timestamp="1537796268075">
         <mark key="[" line="15" column="17" />
         <mark key="]" line="15" column="18" />
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="C:/code/programming/cake/array/index.php" timestamp="1537798256516">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-        <mark key="." line="1" column="20" />
+      <file name="C:/code/programming/cake/array/index.php" timestamp="1537798940750">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
