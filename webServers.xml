@@ -1,0 +1,93 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ed12d02-43e5-4eb9-b82e-fed722879615" name="Tarot Admin" url="http://tarot_admin.app:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="fa8e7c4d-5cd4-4821-bc49-fbe317ae5d19" name="Guinness New" url="http://guinness-new/">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="965ee22e-ab8d-46a3-9f7c-f4c2dbff1946" name="Homestead Tarot Admin" url="http://tarot_admin.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e368ccd8-aa9e-4410-99a4-f04e6a6fd0bd" name="Scrump Dev" url="http://scrumpy-dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="4d8ccdf8-242b-48e5-ac15-ebb63695aae9" name="Laracasts" url="http://laracasts.app">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="fd11934a-2397-4510-b8a3-faa816b3f1f3" name="fungarvan" url="http://exchange.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="72e1ac30-0433-44ad-ac1c-1081096b9525" name="cache" url="http://cache.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="b7545fa5-fa7e-4216-a9a9-fd3a527748c9" name="Angels.dev" url="http://angels.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="24acb664-6d06-4aa1-9a89-e679a2061a1e" name="PHP Mag" url="http://phpmag.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ca68598c-278d-4674-9f26-c8817e3acc23" name="CRM API" url="http://crm_api.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d74ad919-4aa6-4a2f-8a0a-f7f973628a24" name="PHP Mag API" url="http://phpmag_api.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a966678d-def6-4adf-8a43-04a6cff29c1a" name="Rage Restaurant" url="http://rage.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="1eaf7ea4-ab90-4985-b79c-943118797c9c" name="Digital Ocean" url="http://digital_ocean.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="a519b529-adea-4b08-b705-d0db87d04ffc" name="Kevin" url="http://kevin.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="7748ba99-c878-4f63-8e90-2cbab80415ba" name="travis.dev" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="6b14c026-829d-42f7-bcd1-e2e1ad4986ea" name="Angel Dispatcher" url="http://dispatcher.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="da85f639-c80d-454f-a0fa-2dbe8c5de756" name="Trains" url="http://trains.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="465ecb68-9a49-4ce9-82fc-bdba8cbb23e2" name="dara.dev" url="http://dara.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="e23fb10a-d969-42d7-b34a-a4173b60420b" name="Tarot Manager" url="http://tarot_manager.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="ba0121d8-83c6-4137-b9f4-2ca0264ce881" name="Zend Application" url="http://zend.app">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="9529e924-1924-46cc-9c57-1f4c501100e4" name="js_dev" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="d1c4654f-c128-44ed-b992-c7ea8b021d58" name="Voicer" url="http://voicer.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="016a2e2c-71a9-4a8e-bfbf-3892426891b6" name="tarot" url="http://tarot.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f0970a3e-daa7-4782-aca6-1a1af3316456" name="http://tarot_api" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="4d11ec9a-3331-470b-bc3b-a7b04996d2ac" name="Tarot API" url="http://tarot_api.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2fb59f6b-8c21-4468-bc28-94afc343c825" name="Tarot API Laravel" url="http://tarot_api_laravel.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="289aad74-c326-4fbf-937d-529965305a89" name="Automated Tasks" url="http://automated.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="6c026149-89e8-43f8-9991-c280b2bff7ac" name="Reader Bookings" url="http://reader_bookings.dev">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="dc0dcb98-a127-4384-85ec-1787568fc22c" name="API Test" url="http://api.test">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
