@@ -40,23 +40,21 @@
     <driver id="sybase.ase">
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="mysql">
+    <driver id="mysql" dialect="MariaDB">
       <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-license.txt</url>
-      </library>
-      <library>
-        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mysql-connector-java-5.1.34-bin.jar</url>
-      </library>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
+      <artifact name="MariaDB Connector J" use="true" version="2.2.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />

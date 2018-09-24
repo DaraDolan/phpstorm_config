@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537800137933">
+      <file name="/Dummy.txt" timestamp="1537802416523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_admin/dashboard/.env" timestamp="1537796268075">
@@ -12,17 +12,38 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="C:/code/programming/cake/array/index.php" timestamp="1537798940750">
-        <mark key="[" line="1" column="37" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+      <file name="C:/code/programming/cake/array/index.php" timestamp="1537802930776">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1537802232485">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="10" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="4" column="10" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnRfcigkZGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZWNobyAnIGNhbiBJICBpcyAgZW50ZXIgYSBJIGFtIGhlcmUnOwplY2hvICd0aGF0IGlzIEpvaG4sIGhpcyBuYW1lIGlzIGpvaG4nOwo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -37,6 +58,22 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
