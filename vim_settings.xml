@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537875337790">
+      <file name="/Dummy.txt" timestamp="1537884761379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_admin/dashboard/.env" timestamp="1537796268075">
@@ -21,6 +21,12 @@
       <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1537875381936">
         <mark key="'" line="16" column="35" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1537885044551">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="5" />
+      </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/GenerateReaderScores.php" timestamp="1537875535148">
         <mark key="'" line="88" column="0" />
       </file>
@@ -37,10 +43,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC4gJzxici8+Jzs=</text>
+        <text>facebook_acc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gJzxici8+Jzs=</text>
+        <text>facebook_acc</text>
       </register>
       <register name="/" type="4">
         <text>MARKETING</text>
@@ -115,6 +121,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
