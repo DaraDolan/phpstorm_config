@@ -27,11 +27,11 @@
       <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1537875381936">
         <mark key="'" line="16" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1537885044551">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="^" line="1" column="22" />
-        <mark key="." line="1" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1537956161812">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/GenerateReaderScores.php" timestamp="1537875535148">
         <mark key="'" line="88" column="0" />
