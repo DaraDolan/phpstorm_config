@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1537884761379">
+      <file name="/Dummy.txt" timestamp="1537968402514">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
@@ -38,6 +38,9 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
+        <mark key="'" line="39" column="5" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/TarotDatabaseSeeder.php" timestamp="1537959864133">
         <mark key="[" line="28" column="57" />
@@ -76,11 +79,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1537963295047">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-        <mark key="." line="10" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1537969047989">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+        <mark key="^" line="14" column="7" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/TarotPaymentController.php" timestamp="1537891828197">
         <mark key="[" line="74" column="0" />
@@ -99,13 +102,14 @@
       <jump line="38" column="59" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" />
       <jump line="53" column="27" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/EmailCustomer.php" />
       <jump line="35" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/.env" />
+      <jump line="39" column="5" filename="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGVtYWlsX2N1c3RvbWVyLT5hdXRoZW50aWNhdGUoKQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>MARKETING</text>
@@ -114,31 +118,31 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+aGFzaGVkX3Bhc3N3b3JkID0gcGFzc3dvcmRfaGFzaCgkcGFzc3dvcmQsIFBBU1NXT1JEX0RFRkFVTFQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGVmdCBqb2luIHN1YnNjaXB0aW9uX2NoYW5uZWxzIGNoYW4gb24gY2hhbi5zdWJzY3JpcHRpb25fY2hhbm5lbF9pZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmJfaWQgPSAkbmV3X3VzZXItPmZiX2lkOwogICAgICAgICAgICAgICAgICAgICRmYl90b2tlbiA9ICRuZXdfdXNlci0+ZmJfdG9rZW47Cg==</text>
+        <text encoding="base64">CmZyb20gc3ZjX3N1YnNjcmlwdGlvbnMgc3Vicwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">c2VsZWN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nSGFuZGxlcjo6bG9nX21lc3NhZ2UoTG9nSGFuZGxlcjo6SU5GTywgX19GSUxFX18sIF9fTElORV9fLCAkdXNlci0+cGFzc3dvcmQpOwogICAgICAgICAgICBMb2dIYW5kbGVyOjpsb2dfbWVzc2FnZShMb2dIYW5kbGVyOjpJTkZPLCBfX0ZJTEVfXywgX19MSU5FX18sICR0aGlzLT5oYXNoZWRfcGFzc3dvcmQpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmJfaWQgPSAkbmV3X3VzZXItPmZiX2lkOwogICAgICAgICAgICAgICAgICAgICRmYl90b2tlbiA9ICRuZXdfdXNlci0+ZmJfdG9rZW47Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmJfdG9rZW4gPSAkbmV3X3VzZXItPmZiX3Rva2VuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0lmIHRoZXJlIGlzIGEgcGFzc3dvcmQsIHRoZW4gdGhhdCBpcyBob3cgdG8gYXV0aGVudGljYXRlLgogICAgICAgIC8vdGhpcyBzaG91bGQgYmUgZG9uZSB3aXRoIGEgcG9zdCBtZXRob2QuCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nSGFuZGxlcjo6bG9nX21lc3NhZ2UoTG9nSGFuZGxlcjo6SU5GTywgX19GSUxFX18sIF9fTElORV9fLCAkdXNlci0+cGFzc3dvcmQpOwogICAgICAgICAgICBMb2dIYW5kbGVyOjpsb2dfbWVzc2FnZShMb2dIYW5kbGVyOjpJTkZPLCBfX0ZJTEVfXywgX19MSU5FX18sICR0aGlzLT5oYXNoZWRfcGFzc3dvcmQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmJfdG9rZW4gPSAkbmV3X3VzZXItPmZiX3Rva2VuOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -181,7 +185,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
