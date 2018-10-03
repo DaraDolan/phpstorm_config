@@ -70,8 +70,22 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538581235346">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="90" column="47" />
+        <mark key="]" line="90" column="44" />
+        <mark key="^" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+      </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1538565396081">
         <mark key="'" line="59" column="65" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538581321769">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="36" />
+        <mark key="." line="8" column="36" />
+        <mark key="^" line="8" column="36" />
       </file>
       <file name="C:/code/programming/cake/array/index.php" timestamp="1537806546186">
         <mark key="[" line="55" column="20" />
@@ -135,19 +149,22 @@
       <jump line="56" column="24" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="58" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="59" column="65" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
+      <jump line="84" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" />
+      <jump line="21" column="36" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
+      <jump line="124" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ApiClients</text>
+        <text>SocialFacebookRegisterController</text>
       </register>
       <register name="-" type="4">
-        <text>ApiClients</text>
+        <text>SocialFacebookRegisterController</text>
       </register>
       <register name="/" type="4">
         <text>subscription</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChBcGlDbGllbnRzOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">JHJvdXRlci0+Z2V0KCcvdGFyb3QvKi9hbmdlbC9jdXN0b21lci8qL3N1YnNjcmlwdGlvbl9icmFuZGluZy8qJywgQW5nZWxTdWJzY3JpcHRpb25CcmFuZGluZ0NvbnRyb2xsZXI6OmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
@@ -220,6 +237,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
