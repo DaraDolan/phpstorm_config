@@ -33,11 +33,11 @@
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1537963382383">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1538558703050">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
@@ -86,11 +86,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1537970946936">
-        <mark key="[" line="30" column="11" />
-        <mark key="]" line="27" column="100" />
-        <mark key="." line="27" column="100" />
-        <mark key="^" line="27" column="100" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1538558456954">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
+        <mark key="^" line="38" column="25" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/TarotPaymentController.php" timestamp="1537891828197">
         <mark key="[" line="74" column="0" />
@@ -114,10 +114,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>usort()</text>
+        <text>svc_subscriptions</text>
       </register>
       <register name="-" type="4">
-        <text>usort()</text>
+        <text>svc_subscriptions</text>
       </register>
       <register name="/" type="4">
         <text>MARKETING</text>
