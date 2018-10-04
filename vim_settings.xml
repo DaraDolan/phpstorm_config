@@ -80,12 +80,12 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1538565396081">
         <mark key="'" line="59" column="65" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538582135251">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="27" column="63" />
-        <mark key="." line="27" column="63" />
-        <mark key="^" line="27" column="63" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538651354167">
+        <mark key="'" line="23" column="29" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
       <file name="C:/code/programming/cake/array/index.php" timestamp="1537806546186">
         <mark key="[" line="55" column="20" />
@@ -154,6 +154,7 @@
       <jump line="124" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="97" column="13" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="25" column="16" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
+      <jump line="23" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
