@@ -3,6 +3,75 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console_1.sql" timestamp="1537960701396">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1537875381936">
+        <mark key="'" line="16" column="35" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
+        <mark key="'" line="219" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/TarotDatabaseSeeder.php" timestamp="1538655648778">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="31" column="49" />
+        <mark key="." line="31" column="49" />
+        <mark key="^" line="31" column="49" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/EmailCustomer.php" timestamp="1537962304676">
+        <mark key="'" line="53" column="27" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+      </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/GenerateReaderScores.php" timestamp="1537875535148">
+        <mark key="'" line="88" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="90" column="9" />
+        <mark key="]" line="90" column="12" />
+        <mark key="^" line="90" column="12" />
+        <mark key="." line="90" column="12" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538653594243">
+        <mark key="'" line="26" column="29" />
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="20" column="19" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+      </file>
+      <file name="C:/code/programming/cake/array/index.php" timestamp="1537806546186">
+        <mark key="[" line="55" column="20" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
+        <mark key="'" line="35" column="0" />
+      </file>
+      <file name="C:/code/programming/cake/array/array001.php" timestamp="1537978153054">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="15" />
+        <mark key="." line="58" column="15" />
+        <mark key="^" line="58" column="20" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/.env" timestamp="1538655204076">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/SubscriptionChannelsTableSeeder.php" timestamp="1538565228841">
+        <mark key="[" line="47" column="54" />
+        <mark key="]" line="47" column="54" />
+        <mark key="." line="47" column="54" />
+        <mark key="^" line="47" column="54" />
+      </file>
       <file name="/Dummy.txt" timestamp="1537968402514">
         <mark key="[" line="0" column="0" />
       </file>
@@ -21,42 +90,17 @@
         <mark key="." line="17" column="88" />
         <mark key="^" line="17" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console_1.sql" timestamp="1537960701396">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="5" />
-      </file>
-      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1537875381936">
-        <mark key="'" line="16" column="35" />
-      </file>
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1538563694951">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1538656391245">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
-      </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/TarotDatabaseSeeder.php" timestamp="1538565446752">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="50" />
-        <mark key="^" line="30" column="50" />
-        <mark key="." line="30" column="50" />
-      </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/EmailCustomer.php" timestamp="1537962304676">
-        <mark key="'" line="53" column="27" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-      </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/GenerateReaderScores.php" timestamp="1537875535148">
-        <mark key="'" line="88" column="0" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/WebContentTableSeeder.php" timestamp="1538564669237">
         <mark key="'" line="81" column="47" />
@@ -70,44 +114,17 @@
         <mark key="]" line="21" column="48" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="90" column="9" />
-        <mark key="]" line="90" column="12" />
-        <mark key="^" line="90" column="12" />
-        <mark key="." line="90" column="12" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVC.php" timestamp="1538653904794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1538565396081">
         <mark key="'" line="59" column="65" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538651354167">
-        <mark key="'" line="23" column="29" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-      </file>
-      <file name="C:/code/programming/cake/array/index.php" timestamp="1537806546186">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="20" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="55" column="20" />
-      </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
-        <mark key="'" line="35" column="0" />
-      </file>
-      <file name="C:/code/programming/cake/array/array001.php" timestamp="1537978153054">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="58" column="15" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="20" />
-      </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/SubscriptionChannelsTableSeeder.php" timestamp="1538565228841">
-        <mark key="[" line="47" column="54" />
-        <mark key="]" line="47" column="54" />
-        <mark key="." line="47" column="54" />
-        <mark key="^" line="47" column="54" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/WebMember.php" timestamp="1538653891209">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="41" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -115,11 +132,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1538646908889">
-        <mark key="[" line="90" column="25" />
-        <mark key="]" line="90" column="25" />
-        <mark key="^" line="90" column="25" />
-        <mark key="." line="90" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1538656284978">
+        <mark key="[" line="52" column="33" />
+        <mark key="]" line="52" column="33" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="52" column="33" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/TarotPaymentController.php" timestamp="1537891828197">
         <mark key="[" line="74" column="0" />
@@ -155,46 +172,47 @@
       <jump line="97" column="13" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="25" column="16" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="23" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
+      <jump line="219" column="0" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>optional</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHBlLkRhdGVUaW1lLCBwZS5FdmVudFR5cGUsIGV0Lk5hbWUKZnJvbSBwYXltZW50X2V2ZW50cyBwZQogICAgICAgbGVmdCBqb2luIGV2ZW50X3R5cGVzIGV0IG9uIHBlLkV2ZW50VHlwZSA9IGV0LkV2ZW50VHlwZUlECndoZXJlIHBlLkJpbGxpbmdObyA9IDE0NjEwMzMKb3JkZXIgYnkgcGUuRGF0ZVRpbWUgZGVzYzsK</text>
+        <text encoding="base64">d2hlcmUgQmlsbGluZ05vID0gMTQ2MTAzMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBCaWxsaW5nTm87CgpzZWxlY3QgKgpmcm9tIGV2ZW50X3R5cGVzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgcGUuQmlsbGluZ05vID0gMTQ2MTAzMwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChTaWdudXBFdmVudFR5cGVzU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGUuUHJvbW9NaW51dGVzQ2hhbmdlID4gMAo=</text>
+        <text encoding="base64">bmFtZXNwYWNlIEFwcFxEYXRhYmFzZVxUYXJvdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdCBqb2luIGV2ZW50X3R5cGVzIGV0IG9uIHBlLkV2ZW50VHlwZSA9IGV0LkV2ZW50VHlwZUlECg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VbJ3Byb21vJ10gPSAkcHJvbW9fc3Vic2NyaXB0aW9uOwogICAgICAgICRyZXNwb25zZVsnd2Vla2x5J10gPSAkd2Vla2x5X2hvcm9zY3JvcGVfc3Vic2NyaXB0aW9uOwogICAgICAgICRyZXNwb25zZVsnbW9udGhseSddID0gJG1vbnRobHlfdGFyb3RzY29wZV9zdWJzY3JpcHRpb247CiAgICAgICAgJHJlc3BvbnNlWydibG9nJ10gPSAkYmxvZ19zdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IHBlLkRhdGVUaW1lLCBwZS5FdmVudFR5cGUsIGV0Lk5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvbW9fc3Vic2NyaXB0aW9uID0gVXJsOjpnZXRfcmVxdWVzdF9kYXRhKCcxJywgZmFsc2UpOwogICAgICAgICR3ZWVrbHlfaG9yb3Njcm9wZV9zdWJzY3JpcHRpb24gPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJzExJywgZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nSGFuZGxlcjo6bG9nX2V4Y2VwdGlvbigkZXhjKTsKICAgICAgICAgICAgJHJlc3BvbnNlWydlcnJvcl9jb2RlJ10gPSBBUElFcnJvcnM6OklOVEVSTkFMOwogICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX21lc3NhZ2UnXSA9IEFQSUVycm9yczo6Z2V0X2Vycm9yX21lc3NhZ2UoQVBJRXJyb3JzOjpJTlRFUk5BTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJzMxJywgZmFsc2UpID09PSAndHJ1ZSc/IHRydWU6ZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9pZiBhIHBhc3N3b3JkIGhhcyBiZWVuIHN1cHBsaWVkLCB0aGUgY3VzdG9tZXIgaXMgZWl0aGVyIHJlZ2lzdGVyaW5nCiAgICAgICAgICAgIC8vb3IgdHJ5aW5nIHRvIGF1dGhlbnRpY2F0ZQogICAgICAgICAgICAkcGFzc3dvcmQgPSBVcmw6OmdldF9wb3N0X2RhdGEoJ3Bhc3N3b3JkJyk7CiAgICAgICAgICAgIGlmICgkcGFzc3dvcmQpIHsKICAgICAgICAgICAgICAgICRlbWFpbF9jdXN0b21lciA9IG5ldyBFbWFpbEN1c3RvbWVyKCRlbWFpbCwgJHBhc3N3b3JkKTsKICAgICAgICAgICAgICAgIC8vdHJ5IHRvIGF1dGhlbnRpY2F0ZSB0aGUgY3VzdG9tZXIuCiAgICAgICAgICAgICAgICAvL2lmIHRoZXkgYXV0aGVudGljYXRlLCB0aGVuIGp1c3QgcmV0dXJuIGRldGFpbHMKICAgICAgICAgICAgICAgICRuZXdfdXNlciA9ICRlbWFpbF9jdXN0b21lci0+YXV0aGVudGljYXRlKCk7CiAgICAgICAgICAgICAgICBpZiAoJG5ld191c2VyKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWydhdXRoZW50aWMnXSA9ICd5ZXMnOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBpZiAoJGVtYWlsX2N1c3RvbWVyLT5lbWFpbF9leGlzdHMoKSkgewogICAgICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCdFbWFpbCBBbHJlYWR5IEV4aXN0cycpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAvL2lmIHRoZSBjdXN0b21lciBkb2VzIG5vdCBhbHJlYWR5IGV4aXN0IHRoZW4gcmVnaXN0ZXIgdGhlbQogICAgICAgICAgICAgICAgICAgICRuZXdfdXNlciA9ICRlbWFpbF9jdXN0b21lci0+cmVnaXN0ZXIoKTsKICAgICAgICAgICAgICAgICAgICAkbmV3X3VzZXItPmFjY291bnRfbnVtYmVyID0gREJTb2NpYWw6OmdlbmVyYXRlX2FuZF92YWxpZGF0ZV9hY2NvdW50X251bWJlcl9mYl9jdXN0b21lcigpOwogICAgICAgICAgICAgICAgICAgICRuZXdfdXNlci0+c2F2ZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJGZiX2lkID0gJG5ld191c2VyLT5mYl9pZDsKICAgICAgICAgICAgICAgICRmYl90b2tlbiA9ICRuZXdfdXNlci0+ZmJfdG9rZW47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGlmIChzdHJsZW4oJGZiX2RvYikgPiAwKSB7CiAgICAgICAgICAgICAgICAvLyBOb3RlOiBmYl9kb2IgYW5kIHN0YXJfc2lnbl9pZCBpcyBzdG9yZWQgaW4gdGhlIGFwcCBkYXRhYmFzZSwgZG9iIGlzIHNlbnQgdG8gdGhlIENSTSBBUEkgaWYgaXMgZnVsbCBkb2IgYW5kIHN0YXJfc2lnbl9pZCBpcyBhbHNvIHNlbnQgaWYgZG9iIGlzIG5vdCBlbXB0eSB3aGljaCBtZWFucyB0aGF0IHdlIGNhbiBnZXQgaXQgZnJvbSBkb2IKICAgICAgICAgICAgICAgICRmb3JtYXR0ZWRfZG9iID0gVXRpbHM6OmZiX2RhdGVfdG9fbXlzcWxfZGF0ZSgKICAgICAgICAgICAgICAgICAgICAkZmJfZG9iCiAgICAgICAgICAgICAgICApOyAvLyBJZiBmYl9kb2IgaXMgTU0vREQsIHRoZSBmdW5jdGlvbiB3aWxsIHJldHVybiBjdXJyZW50X3llYXItbW0tZGQKICAgICAgICAgICAgICAgICRzdGFyX3NpZ25faWQgPSBEQkFjY291bnQ6OmdldF9zdGFyX3NpZ25faWRfZnJvbV9kb2IoJGZvcm1hdHRlZF9kb2IpOwogICAgICAgICAgICAgICAgaWYgKFV0aWxzOjppc19mdWxsX2RhdGUoJGZiX2RvYikpIHsgLy8gQ3JlYXRlIGRvYiB2YXJpYWJsZSBvbmx5IGlmIGZiX2RhdGUgaW5jbHVkZXMgdGhlIHllYXIKICAgICAgICAgICAgICAgICAgICAkZG9iID0gJGZvcm1hdHRlZF9kb2I7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRyZXNwb25zZVsncmVxdWVzdF9pZCddID0gJHJlcXVlc3RfaWQ7CgogICAgICAgICAgICAkdmFsaWRfb3MgPSBhcnJheSgnYW5kcm9pZCcsICdpb3MnLCAnZmInKTsgLy8gQWRkZWQgVjYKCiAgICAgICAgICAgIGlmIChzdHJsZW4oJGZiX2lkKSA9PSAwKSB7CiAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX2NvZGUnXSA9IEFQSUVycm9yczo6UEFSQU1FVEVSX01JU1NJTkc7CiAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX21lc3NhZ2UnXSA9ICJUaGUgZmJfaWQgcGFyYW1ldGVyIGlzIHJlcXVpcmVkLiI7CiAgICAgICAgICAgICAgICBVdGlsczo6cHJpbnRfanNvbigkcmVzcG9uc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzdHJsZW4oJGZiX3Rva2VuKSA9PSAwKSB7CiAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX2NvZGUnXSA9IEFQSUVycm9yczo6UEFSQU1FVEVSX01JU1NJTkc7CiAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX21lc3NhZ2UnXSA9ICJUaGUgZmJfdG9rZW4gcGFyYW1ldGVyIGlzIHJlcXVpcmVkLiI7CiAgICAgICAgICAgICAgICBVdGlsczo6cHJpbnRfanNvbigkcmVzcG9uc2UpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzdHJsZW4oJG9zKSA+IDAgJiYgISBpbl9hcnJheSgkb3MsICR2YWxpZF9vcykpIHsgLy8gQWRkZWQgVjYKICAgICAgICAgICAgICAgICRyZXNwb25zZVsnZXJyb3JfY29kZSddID0gQVBJRXJyb3JzOjpQQVJBTUVURVJfTk9UX1ZBTElEOwogICAgICAgICAgICAgICAgJHJlc3BvbnNlWydlcnJvcl9tZXNzYWdlJ10gPSAiT3BlcmF0aW5nIHN5c3RlbSBoYXMgdG8gYmUgYW5kcm9pZCBvciBpb3MgKCIuJG9zLiIgcHJvdmlkZWQpLiI7CiAgICAgICAgICAgICAgICBVdGlsczo6cHJpbnRfanNvbigkcmVzcG9uc2UpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAkY3VzdG9tZXJfZXhpc3RzID0gREJTb2NpYWw6OmNoZWNrX2lmX2ZiX2N1c3RvbWVyX2V4aXN0c19ieV9pZCgkZmJfaWQpOwogICAgICAgICAgICBpZiAoJGN1c3RvbWVyX2V4aXN0cykgewogICAgICAgICAgICAgICAgREJTb2NpYWw6OnVwZGF0ZV9mYl9jdXN0b21lcl9kZXRhaWxzKCRmYl9pZCwgJGZiX3Rva2VuLCAkZW1haWwpOyAvLyBQaG9uZSBudW1iZXIgcmVtb3ZlZCBvbiBWNgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgREJTb2NpYWw6OmFkZF9uZXdfZmJfY3VzdG9tZXIoJGZiX2lkLCAkZmJfdG9rZW4sICRlbWFpbCk7IC8vIFBob25lIG51bWJlciByZW1vdmVkIG9uIFY2CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIEFkZGVkIG9uIFY2CiAgICAgICAgICAgIGlmIChzdHJsZW4oJG9zKSA+IDApIHsKICAgICAgICAgICAgICAgIERCQWNjb3VudDo6dXBkYXRlX2FwcF9wbGF0Zm9ybXMoJGZiX2lkLCAkb3MsICRwdXNoX3Rva2VuLCAkdGltZXpvbmUpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBZGRlZCBvbiBWNi4gSU1QT1JUQU5UOiBCZWxvdyB0YXNrIGNhbiBiZSBhbHNvIGFjaGlldmVkIGlmIHRoZSBhcHAgY2FsbHMgdGhlIC91c2VyL2RldGFpbHMgZW5kcG9pbnQKICAgICAgICAgICAgJGRhdGEgPSBjb21wYWN0KAogICAgICAgICAgICAgICAgJ2VtYWlsJywKICAgICAgICAgICAgICAgICdmaXJzdF9uYW1lJywKICAgICAgICAgICAgICAgICdsYXN0X25hbWUnLAogICAgICAgICAgICAgICAgJ2ZiX2RvYicsCiAgICAgICAgICAgICAgICAnZG9iJywKICAgICAgICAgICAgICAgICdzdGFyX3NpZ25faWQnLAogICAgICAgICAgICAgICAgJ29zJywKICAgICAgICAgICAgICAgICdwdXNoX3Rva2VuJywKICAgICAgICAgICAgICAgICd0aW1lem9uZScsCiAgICAgICAgICAgICAgICAnYnJhbmRfaWQnLAogICAgICAgICAgICAgICAgJ2dlbmRlcicKICAgICAgICAgICAgKTsKICAgICAgICAgICAgREJBY2NvdW50Ojp1cGRhdGVfdXNlcl9kZXRhaWxzKCRmYl9pZCwgJGRhdGEpOwoKICAgICAgICAgICAgJHJlc3BvbnNlWydzdWNjZXNzJ10gPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZW1haWwgPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJ2VtYWlsJyk7CiAgICAgICAgJGZpcnN0X25hbWUgPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJ2ZpcnN0X25hbWUnKTsgLy8gQWRkZWQgb24gVjYKICAgICAgICAkbGFzdF9uYW1lID0gVXJsOjpnZXRfcmVxdWVzdF9kYXRhKCdsYXN0X25hbWUnKTsgLy8gQWRkZWQgb24gVjYKICAgICAgICAkZmJfZG9iID0gVXJsOjpnZXRfcmVxdWVzdF9kYXRhKCdkb2InKTsgLy8gQWRkZWQgb24gVjYKICAgICAgICAvLyBNb3JlIG9wdGlvbmFsIHBhcmFtZXRlcnMuIElmIG5ldyBjdXN0b21lciwgdGhpcyBpbmZvcm1hdGlvbiB3aWxsIG9ubHkgYmUgc2VudCB0byBDUk0gYXMgdGhlcmUgaXMgbm8gcmVjb3JkIGluIGFuZ2VsX2N1c3RvbWVycyB0YWJsZQogICAgICAgICRvcyA9IFVybDo6Z2V0X3JlcXVlc3RfZGF0YSgnb3MnKTsgLy8gQWRkZWQgb24gVjYuCiAgICAgICAgJHB1c2hfdG9rZW4gPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJ3B1c2hfdG9rZW4nKTsgLy8gQWRkZWQgb24gVjYKICAgICAgICAkdGltZXpvbmUgPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJ3RpbWV6b25lJyk7IC8vIEFkZGVkIG9uIFY2CiAgICAgICAgJGJyYW5kX2lkID0gVXJsOjpnZXRfcmVxdWVzdF9kYXRhKCdicmFuZF9pZCcpOyAvLyBBZGRlZCBvbiBWNgogICAgICAgICRnZW5kZXIgPSBVcmw6OmdldF9yZXF1ZXN0X2RhdGEoJ2dlbmRlcicpOyAvLyBBZGRlZCBvbiBWNgo=</text>
+        <text encoding="base64">d2hlcmUgcGUuQmlsbGluZ05vID0gMTQ2MTAzMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdF9pZCA9IFVybDo6Z2V0X3JlcXVlc3RfZGF0YSgncmVxdWVzdF9pZCcpOwo=</text>
+        <text encoding="base64">cGUuUHJvbW9NaW51dGVzQ2hhbmdlID4gMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -244,6 +262,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
