@@ -32,6 +32,9 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/GenerateReaderScores.php" timestamp="1537875535148">
         <mark key="'" line="88" column="0" />
       </file>
+      <file name="C:/code/psytechdigital/tarot/includes/header_top.php" timestamp="1538732703620">
+        <mark key="'" line="27" column="65" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="90" column="9" />
@@ -143,6 +146,13 @@
         <mark key="." line="20" column="76" />
         <mark key="^" line="20" column="76" />
       </file>
+      <file name="C:/code/psytechdigital/tarot/includes/views_templates/common/header.php" timestamp="1538732717672">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="9" column="74" />
+        <mark key="]" line="9" column="73" />
+        <mark key="." line="9" column="73" />
+        <mark key="^" line="9" column="73" />
+      </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -198,16 +208,22 @@
       <jump line="56" column="106" filename="C:/code/psytechdigital/tarot/app/index.php" />
       <jump line="47" column="0" filename="C:/code/psytechdigital/tarot/index.php" />
       <jump line="40" column="8" filename="C:/code/psytechdigital/tarot/old_config/config.php" />
+      <jump line="16" column="58" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
+      <jump line="76" column="0" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
+      <jump line="36" column="81" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
+      <jump line="27" column="65" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
+      <jump line="28" column="44" filename="C:/code/psytechdigital/tarot/includes/views_templates/common/header.php" />
+      <jump line="4" column="0" filename="C:/code/psytechdigital/tarot/includes/views_templates/common/header.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://stories.7thsensepsychics.com/wp-content/uploads/2016/02</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>https://stories.7thsensepsychics.com/wp-content/uploads/2016/02</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bmFtZXNwYWNlIFRhcm90QXBpXERhdGFiYXNlXE1vZGVsc1xUYXJvdDsK</text>
@@ -244,9 +260,9 @@
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -257,6 +273,7 @@
         <entry>subscription</entry>
         <entry>optional</entry>
         <entry>img</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
