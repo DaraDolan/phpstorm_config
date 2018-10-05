@@ -42,11 +42,11 @@
         <mark key="^" line="90" column="12" />
         <mark key="." line="90" column="12" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538665877535">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="15" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538736639338">
+        <mark key="[" line="28" column="64" />
+        <mark key="]" line="29" column="53" />
+        <mark key="." line="29" column="53" />
+        <mark key="^" line="29" column="53" />
       </file>
       <file name="C:/code/programming/cake/array/index.php" timestamp="1537806546186">
         <mark key="[" line="55" column="20" />
@@ -217,10 +217,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>take</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>take</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
