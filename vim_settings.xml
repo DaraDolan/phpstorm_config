@@ -69,11 +69,11 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
         <mark key="'" line="35" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console_1.sql" timestamp="1539098432006">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console_1.sql" timestamp="1539098608766">
         <mark key="[" line="3" column="19" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="C:/code/programming/cake/array/array001.php" timestamp="1537978153054">
         <mark key="'" line="47" column="0" />
@@ -101,6 +101,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1539093166659">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1539098629671">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
         <mark key="'" line="24" column="27" />
@@ -169,10 +175,6 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1538565396081">
         <mark key="'" line="59" column="65" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/WebMember.php" timestamp="1538665515694">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="41" />
-      </file>
       <file name="C:/code/psytechdigital/tarot/app/index.php" timestamp="1538666350984">
         <mark key="'" line="56" column="106" />
         <mark key="[" line="20" column="76" />
@@ -199,10 +201,6 @@
         <mark key="]" line="153" column="21" />
         <mark key="^" line="153" column="21" />
         <mark key="." line="153" column="21" />
-      </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/TarotPaymentController.php" timestamp="1537891828197">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="102" />
       </file>
     </filemarks>
     <jumps>
