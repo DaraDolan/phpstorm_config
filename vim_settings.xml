@@ -15,8 +15,8 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1537875381936">
-        <mark key="'" line="16" column="35" />
+      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1539093081535">
+        <mark key="'" line="125" column="27" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
@@ -69,6 +69,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
         <mark key="'" line="35" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console_1.sql" timestamp="1539093332957">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+      </file>
       <file name="C:/code/programming/cake/array/array001.php" timestamp="1537978153054">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="58" column="15" />
@@ -93,7 +99,7 @@
         <mark key="^" line="57" column="50" />
         <mark key="." line="57" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539084905175">
+      <file name="/Dummy.txt" timestamp="1539093166659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
@@ -246,6 +252,7 @@
       <jump line="38" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="26" column="17" filename="C:/code/programming/cake/20181009Duffel/index.php" />
       <jump line="28" column="0" filename="C:/code/programming/cake/20181009Duffel/index.php" />
+      <jump line="125" column="27" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,7 +262,7 @@
         <text>totalValue</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text>billing</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR3ZWlnaHRWYWx1ZUEgPSAkYS0+Z2V0V2VpZ2h0KCkvJGEtPmdldFZhbHVlKCk7Cg==</text>
@@ -292,9 +299,9 @@
       </register>
     </registers>
     <search>
-      <last-search>all</last-search>
+      <last-search>billing</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern>billing</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -307,6 +314,7 @@
         <entry>img</entry>
         <entry>1</entry>
         <entry>all</entry>
+        <entry>billing</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
