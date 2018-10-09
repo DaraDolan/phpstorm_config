@@ -101,12 +101,12 @@
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539076735730">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539080044055">
         <mark key="'" line="28" column="40" />
-        <mark key="[" line="89" column="9" />
-        <mark key="]" line="86" column="25" />
-        <mark key="^" line="86" column="25" />
-        <mark key="." line="86" column="25" />
+        <mark key="[" line="93" column="36" />
+        <mark key="]" line="113" column="65" />
+        <mark key="." line="113" column="65" />
+        <mark key="^" line="113" column="65" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
@@ -223,8 +223,8 @@
       <jump line="38" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFyX2R1bXAoJHN1YmNyaXB0aW9uc19ieV9pZFskY2hhbm5lbF9pZF0tPm9wdGVkX2luKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmYWNlYm9va19hY2NvdW50czsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dmFyX2R1bXAoJHN1YmNyaXB0aW9uc19ieV9pZFskY2hhbm5lbF9pZF0tPm9wdGVkX2luKQ==</text>
@@ -236,31 +236,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHByb21vX3N1YnNjcmlwdGlvbiA9IGZpbHRlcl92YXIoVXJsOjpnZXRfcmVxdWVzdF9kYXRhKCcxJywgZmFsc2UpLCBGSUxURVJfVkFMSURBVEVfQk9PTEVBTik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWyRjaGFubmVsX2lkXSA9ICdzdWJzY3JpYmVkOiAnLnZhcl9kdW1wKCRzdWJjcmlwdGlvbnNfYnlfaWRbJGNoYW5uZWxfaWRdLT5vcHRlZF9pbik7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmYWNlYm9va19hY2NvdW50czsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWyRjaGFubmVsX2lkXSA9ICdzdWJzY3JpYmVkOiAnLnZhcl9kdW1wKCRzdWJjcmlwdGlvbnNfYnlfaWRbJGNoYW5uZWxfaWRdLT5vcHRlZF9pbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSh2YXJfZHVtcCgkc3Vic2NyaXB0aW9uKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJzY3JpcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSh2YXJfZHVtcCgkc3Vic2NyaXB0aW9uKSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN1YmNyaXB0aW9uc19ieV9jaGFubmVsID0gJHN1YmNyaXB0aW9ucy0+a2V5QnkoJ3N1YmNyaXB0aW9uX2NoYW5uZWxfaWQnKTsKICAgICAgICAgICAgZGllKHZhcl9kdW1wKCRzdWJjcmlwdGlvbnMtPmtleXMoKS0+YWxsKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdWJzY3JpcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKHZhcl9kdW1wKCRzdWJjcmlwdGlvbnMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
