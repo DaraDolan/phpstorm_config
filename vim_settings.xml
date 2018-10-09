@@ -111,12 +111,12 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539081006721">
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539082395131">
         <mark key="'" line="25" column="16" />
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="56" column="48" />
-        <mark key="." line="56" column="48" />
-        <mark key="^" line="56" column="48" />
+        <mark key="[" line="60" column="57" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+        <mark key="^" line="62" column="15" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVCSubscription.php" timestamp="1538738307868">
         <mark key="[" line="49" column="0" />
@@ -218,17 +218,17 @@
       <jump line="38" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkQWNjb3VudHMKd2hlcmUgQmlsbGluZ05vID0gMTU5NzIyMjsK</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkQWNjb3VudHMKd2hlcmUgQmlsbGluZ05vID0gMTU5NzIyMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhc3N3b3JkID0gVXJsOjpnZXRfcG9zdF9kYXRhKCdwYXNzd29yZCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bGVmdCBqb2luIHN2Y19saW5rX2l2ciBsaW5rIG9uIGxpbmsuQmlsbGluZ05vID0gYy5CaWxsaW5nTm8K</text>
