@@ -193,12 +193,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539081402527">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539095921481">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="144" column="25" />
-        <mark key="^" line="144" column="24" />
-        <mark key="." line="144" column="24" />
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="149" column="44" />
+        <mark key="^" line="149" column="44" />
+        <mark key="." line="149" column="44" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/TarotPaymentController.php" timestamp="1537891828197">
         <mark key="[" line="74" column="0" />
@@ -255,11 +255,11 @@
       <jump line="125" column="27" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>totalValue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>billing</text>
