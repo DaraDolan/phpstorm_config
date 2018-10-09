@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console_1.sql" timestamp="1537960701396">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="2" column="5" />
@@ -54,6 +60,12 @@
         <mark key="^" line="55" column="20" />
         <mark key="." line="55" column="20" />
       </file>
+      <file name="C:/code/programming/cake/src/CakeType.php" timestamp="1539085921413">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
         <mark key="'" line="35" column="0" />
       </file>
@@ -80,6 +92,9 @@
         <mark key="]" line="57" column="50" />
         <mark key="^" line="57" column="50" />
         <mark key="." line="57" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1539084905175">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
         <mark key="'" line="24" column="27" />
@@ -123,6 +138,19 @@
         <mark key="]" line="49" column="0" />
         <mark key="^" line="41" column="26" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="C:/code/programming/cake/20181009Duffel/index.php" timestamp="1539088056901">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="27" column="71" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="27" column="34" />
+      </file>
+      <file name="C:/code/programming/cake/20181009Duffel/CakeType.php" timestamp="1539084937240">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot/old_config/config.php" timestamp="1538666768960">
         <mark key="'" line="40" column="8" />
@@ -216,46 +244,48 @@
       <jump line="4" column="0" filename="C:/code/psytechdigital/tarot/includes/views_templates/common/header.php" />
       <jump line="13" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="38" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
+      <jump line="26" column="17" filename="C:/code/programming/cake/20181009Duffel/index.php" />
+      <jump line="28" column="0" filename="C:/code/programming/cake/20181009Duffel/index.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>totalValue</text>
       </register>
       <register name="/" type="4">
         <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHBhc3N3b3JkID0gVXJsOjpnZXRfcG9zdF9kYXRhKCdwYXNzd29yZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR3ZWlnaHRWYWx1ZUEgPSAkYS0+Z2V0V2VpZ2h0KCkvJGEtPmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGVmdCBqb2luIHN2Y19saW5rX2l2ciBsaW5rIG9uIGxpbmsuQmlsbGluZ05vID0gYy5CaWxsaW5nTm8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmYWNlYm9va19hY2NvdW50czsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWyRjaGFubmVsX2lkXSA9ICdzdWJzY3JpYmVkOiAnLnZhcl9kdW1wKCRzdWJjcmlwdGlvbnNfYnlfaWRbJGNoYW5uZWxfaWRdLT5vcHRlZF9pbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoZGQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJGNha2VUeXBlcykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSh2YXJfZHVtcCgkc3Vic2NyaXB0aW9uKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSh2YXJfZHVtcCgkd2VpZ2h0VmFsdWVBLCAkd2VpZ2h0VmFsdWVCKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZSh2YXJfZHVtcCgkYS0+Z2V0V2VpZ2h0KCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
