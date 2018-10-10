@@ -133,12 +133,12 @@
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539168424125">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539170187478">
         <mark key="'" line="28" column="40" />
-        <mark key="[" line="107" column="47" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="107" column="28" />
+        <mark key="[" line="101" column="15" />
+        <mark key="]" line="101" column="28" />
+        <mark key="." line="101" column="28" />
+        <mark key="^" line="101" column="28" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
@@ -156,12 +156,12 @@
         <mark key="^" line="41" column="26" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/TarotApp/User.php" timestamp="1539168626124">
-        <mark key="'" line="47" column="18" />
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="28" />
-        <mark key="." line="35" column="28" />
-        <mark key="^" line="35" column="28" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/TarotApp/User.php" timestamp="1539170083669">
+        <mark key="'" line="48" column="18" />
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="36" column="32" />
+        <mark key="." line="36" column="32" />
+        <mark key="^" line="36" column="32" />
       </file>
       <file name="C:/code/programming/cake/20181009Duffel/index.php" timestamp="1539088056901">
         <mark key="'" line="41" column="0" />
@@ -285,8 +285,8 @@
       <jump line="1966" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fb_token</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gc3ZjOwo=</text>
       </register>
       <register name="-" type="4">
         <text>fb_token</text>
@@ -295,34 +295,34 @@
         <text>primaryKey</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2ZiX3Rva2VuJ10gPSAkZmJfdG9rZW47Cg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gc3ZjOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9uczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRuZXdfdXNlciA9IFVzZXI6OmNyZWF0ZSgKLy8gICAgICAgICAgICBbCi8vICAgICAgICAgICAgICAgICdmYl9pZCcgICAgPT4gJHRoaXMtPnByZWZpeC5yYW5kb21faW50KDEwMDAwMDAwMDAwMCwgOTk5OTk5OTk5OTk5KSwKLy8gICAgICAgICAgICAgICAgJ2ZiX3Rva2VuJyA9PiBtZDUodW5pcWlkKCR0aGlzLT5nb29nbGVfdG9rZW4sIHRydWUpKSwKLy8gICAgICAgICAgICBdCi8vICAgICAgICApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRuZXdfdXNlciA9IFVzZXI6OmNyZWF0ZSgKLy8gICAgICAgICAgICBbCi8vICAgICAgICAgICAgICAgICdmYl9pZCcgICAgPT4gJHRoaXMtPnByZWZpeC5yYW5kb21faW50KDEwMDAwMDAwMDAwMCwgOTk5OTk5OTk5OTk5KSwKLy8gICAgICAgICAgICAgICAgJ2ZiX3Rva2VuJyA9PiBtZDUodW5pcWlkKCR0aGlzLT5nb29nbGVfdG9rZW4sIHRydWUpKSwKLy8gICAgICAgICAgICBdCi8vICAgICAgICApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJG5ld191c2VyLT5mYl90b2tlbik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkaWUoJG5ld191c2VyLT5mYl90b2tlbik7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUocHJpbnRfcigkbmV3X3VzZXIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
