@@ -15,10 +15,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" timestamp="1539169219201">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" timestamp="1539179780466">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="40" column="56" />
       </file>
       <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1539093081535">
         <mark key="'" line="125" column="27" />
@@ -143,12 +145,12 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539169389143">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="80" column="51" />
-        <mark key="]" line="80" column="64" />
-        <mark key="." line="80" column="64" />
-        <mark key="^" line="80" column="64" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539179799308">
+        <mark key="'" line="65" column="37" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="66" column="55" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVCSubscription.php" timestamp="1538738307868">
         <mark key="[" line="49" column="0" />
@@ -283,43 +285,47 @@
       <jump line="53" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
       <jump line="1955" column="22" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
       <jump line="1966" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
+      <jump line="50" column="33" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
+      <jump line="71" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
+      <jump line="40" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
+      <jump line="66" column="37" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gc3ZjOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VbJ2xlbmd0aCddID0gc3RybGVuKCdleUpoYkdjaU9pSlNVekkxTmlJc0ltdHBaQ0k2SWprMk1XTm1OakJpWTJWa1pEa3dOamRqTkdObU1XWXlaR1JtTkdWa05qRXlZalV6Tm1aaU1XRWlmUS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyRmpZMjkxYm5SekxtZHZiMmRzWlM1amIyMGlMQ0poZW5BaU9pSTVNekEzTURVeE9EWTRNVGd0Wm10cWNHUnlkWEEwTVhOcU9EbHdaR2RyTW5Ca1pXUmtjVzVvY1dReVlXb3VZWEJ3Y3k1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMGlMQ0poZFdRaU9pSTVNekEzTURVeE9EWTRNVGd0ZG1GbWFXeG1Nems1WVROdk9UZHlPR2htTVhOaE9ESXhOVGhpYm5Oc01tVXVZWEJ3Y3k1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMGlMQ0p6ZFdJaU9pSXhNRE16TVRVd01EWXpOakUyTlRZd05ESXdOVGdpTENKbGJXRnBiQ0k2SW0xaGNtTnZjSEpsYlVCbmJXRnBiQzVqYjIwaUxDSmxiV0ZwYkY5MlpYSnBabWxsWkNJNmRISjFaU3dpYm1GdFpTSTZJazFoY21OdklGQnlaVzFwWlhJaUxDSndhV04wZFhKbElqb2lhSFIwY0hNNkx5OXNhRFl1WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEx5MXVVRTV3YzJkeldrRlhRUzlCUVVGQlFVRkJRVUZCU1M5QlFVRkJRVUZCUVVKMFRTOUNObVF4UlVwM05HSnpUUzl6T1RZdFl5OXdhRzkwYnk1cWNHY2lMQ0puYVhabGJsOXVZVzFsSWpvaVRXRnlZMjhpTENKbVlXMXBiSGxmYm1GdFpTSTZJbEJ5WlcxcFpYSWlMQ0pzYjJOaGJHVWlPaUpsYmkxSFFpSXNJbWxoZENJNk1UVXpPVEE0TVRNM05Dd2laWGh3SWpveE5UTTVNRGcwT1RjMGZRLlgyOGd1SXJ6cWdMMmJySXh1SnY3UjFmbzRMM3RDNTVYenZSWGRUaE1UYnlGQmoyRFZrNHl5enFuSERKS3NCTGEwbTd5aElraExyVkxXQUdieWZjMDU3VDA1WHVwZF9DUU0tNkM2OURUeTFkNlZURTd1VE4zbHJ1dzEzT2R3VzVWeWEzMlpiZHE2T2lqMk5MeFRpNkU0MHpMWmpNbGdncHlKVTFheTFiZW4tcVFzYnFpTlgxT2FwZ2dCU2ZCMFlsVmV0b241LTBOOGNqUU8tcm1QYzJiSmVtNmRFejFPVDRqWjhOWmwwYkMxSE5Fb0ZETENrU0VFeFUwQzhOU2VFa3pJWmJkN1FWeURoTXdCNjlyNWVla3VpVWNyTzA4ZDBKVG9JZ29aRnRZVzBfZkROdGRFSHFVN0xubWVJZHlxU09TdHgxUmx0OHg0VmFQbHVfUmY4MkpNZycpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>fb_token</text>
+        <text>prefix.random_int(100000000000, 999999999999)</text>
       </register>
       <register name="/" type="4">
-        <text>primaryKey</text>
+        <text>length</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gc3ZjOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9uczsK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2VbJ2xlbmd0aCddID0gc3RybGVuKCdleUpoYkdjaU9pSlNVekkxTmlJc0ltdHBaQ0k2SWprMk1XTm1OakJpWTJWa1pEa3dOamRqTkdObU1XWXlaR1JtTkdWa05qRXlZalV6Tm1aaU1XRWlmUS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwyRmpZMjkxYm5SekxtZHZiMmRzWlM1amIyMGlMQ0poZW5BaU9pSTVNekEzTURVeE9EWTRNVGd0Wm10cWNHUnlkWEEwTVhOcU9EbHdaR2RyTW5Ca1pXUmtjVzVvY1dReVlXb3VZWEJ3Y3k1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMGlMQ0poZFdRaU9pSTVNekEzTURVeE9EWTRNVGd0ZG1GbWFXeG1Nems1WVROdk9UZHlPR2htTVhOaE9ESXhOVGhpYm5Oc01tVXVZWEJ3Y3k1bmIyOW5iR1YxYzJWeVkyOXVkR1Z1ZEM1amIyMGlMQ0p6ZFdJaU9pSXhNRE16TVRVd01EWXpOakUyTlRZd05ESXdOVGdpTENKbGJXRnBiQ0k2SW0xaGNtTnZjSEpsYlVCbmJXRnBiQzVqYjIwaUxDSmxiV0ZwYkY5MlpYSnBabWxsWkNJNmRISjFaU3dpYm1GdFpTSTZJazFoY21OdklGQnlaVzFwWlhJaUxDSndhV04wZFhKbElqb2lhSFIwY0hNNkx5OXNhRFl1WjI5dloyeGxkWE5sY21OdmJuUmxiblF1WTI5dEx5MXVVRTV3YzJkeldrRlhRUzlCUVVGQlFVRkJRVUZCU1M5QlFVRkJRVUZCUVVKMFRTOUNObVF4UlVwM05HSnpUUzl6T1RZdFl5OXdhRzkwYnk1cWNHY2lMQ0puYVhabGJsOXVZVzFsSWpvaVRXRnlZMjhpTENKbVlXMXBiSGxmYm1GdFpTSTZJbEJ5WlcxcFpYSWlMQ0pzYjJOaGJHVWlPaUpsYmkxSFFpSXNJbWxoZENJNk1UVXpPVEE0TVRNM05Dd2laWGh3SWpveE5UTTVNRGcwT1RjMGZRLlgyOGd1SXJ6cWdMMmJySXh1SnY3UjFmbzRMM3RDNTVYenZSWGRUaE1UYnlGQmoyRFZrNHl5enFuSERKS3NCTGEwbTd5aElraExyVkxXQUdieWZjMDU3VDA1WHVwZF9DUU0tNkM2OURUeTFkNlZURTd1VE4zbHJ1dzEzT2R3VzVWeWEzMlpiZHE2T2lqMk5MeFRpNkU0MHpMWmpNbGdncHlKVTFheTFiZW4tcVFzYnFpTlgxT2FwZ2dCU2ZCMFlsVmV0b241LTBOOGNqUU8tcm1QYzJiSmVtNmRFejFPVDRqWjhOWmwwYkMxSE5Fb0ZETENrU0VFeFUwQzhOU2VFa3pJWmJkN1FWeURoTXdCNjlyNWVla3VpVWNyTzA4ZDBKVG9JZ29aRnRZVzBfZkROdGRFSHFVN0xubWVJZHlxU09TdHgxUmx0OHg0VmFQbHVfUmY4MkpNZycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJHRoaXMtPnByZWZpeC4kdGhpcy0+Z29vZ2xlX2lkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRuZXdfdXNlciA9IFVzZXI6OmNyZWF0ZSgKLy8gICAgICAgICAgICBbCi8vICAgICAgICAgICAgICAgICdmYl9pZCcgICAgPT4gJHRoaXMtPnByZWZpeC5yYW5kb21faW50KDEwMDAwMDAwMDAwMCwgOTk5OTk5OTk5OTk5KSwKLy8gICAgICAgICAgICAgICAgJ2ZiX3Rva2VuJyA9PiBtZDUodW5pcWlkKCR0aGlzLT5nb29nbGVfdG9rZW4sIHRydWUpKSwKLy8gICAgICAgICAgICBdCi8vICAgICAgICApOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9uczsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUoJG5ld191c2VyLT5mYl90b2tlbik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICRuZXdfdXNlciA9IFVzZXI6OmNyZWF0ZSgKLy8gICAgICAgICAgICBbCi8vICAgICAgICAgICAgICAgICdmYl9pZCcgICAgPT4gJHRoaXMtPnByZWZpeC5yYW5kb21faW50KDEwMDAwMDAwMDAwMCwgOTk5OTk5OTk5OTk5KSwKLy8gICAgICAgICAgICAgICAgJ2ZiX3Rva2VuJyA9PiBtZDUodW5pcWlkKCR0aGlzLT5nb29nbGVfdG9rZW4sIHRydWUpKSwKLy8gICAgICAgICAgICBdCi8vICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWUoJG5ld191c2VyLT5mYl90b2tlbik7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkbmV3X3VzZXItPnNhdmUoKTsK</text>
@@ -329,9 +335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>primaryKey</last-search>
+      <last-search>length</last-search>
       <last-offset />
-      <last-pattern>primaryKey</last-pattern>
+      <last-pattern>length</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -346,6 +352,9 @@
         <entry>all</entry>
         <entry>billing</entry>
         <entry>primaryKey</entry>
+        <entry>die</entry>
+        <entry>len</entry>
+        <entry>length</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
