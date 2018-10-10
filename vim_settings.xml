@@ -15,12 +15,12 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" timestamp="1539181654321">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="75" column="13" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
-        <mark key="^" line="75" column="22" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" timestamp="1539183368042">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="72" column="79" />
+        <mark key="]" line="72" column="45" />
+        <mark key="." line="72" column="45" />
+        <mark key="^" line="72" column="45" />
       </file>
       <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1539093081535">
         <mark key="'" line="125" column="27" />
@@ -291,13 +291,15 @@
       <jump line="53" column="12" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
       <jump line="152" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="75" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
+      <jump line="77" column="8" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
+      <jump line="21" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZShwcmludF9yKCRuZXdfdXNlcikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>google_id_exists</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>google_id_exists</text>
       </register>
       <register name="/" type="4">
         <text>length</text>
@@ -306,31 +308,31 @@
         <text encoding="base64">ZGVsZXRlIGZyb20gc3ZjOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZShwcmludF9yKCRuZXdfdXNlcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKHZhcl9kdW1wKCdpIGFtIGhlcmUnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJGVtYWlsX2FkZHJlc3MpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHVzZXIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpZShwcmludF9yKCRuZXdfdXNlcikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKHZhcl9kdW1wKCdpIGFtIGhlcmUnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBJZiB0aGUgZ29vZ2xlX2lkIGlzIHBhc3NlZCwgdGhlbiB1c2UgdGhpcyB0byB2YWxpZGF0ZSB0aGUgY3VzdG9tZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHVzZXIpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOiBJZiB0aGUgZ29vZ2xlX2lkIGlzIHBhc3NlZCwgdGhlbiB1c2UgdGhpcyB0byB2YWxpZGF0ZSB0aGUgY3VzdG9tZXIuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZmJfaWQgPSAkbmV3X3VzZXItPmZiX2lkOwogICAgICAgICAgICAgICAgICAgICRmYl90b2tlbiA9ICRuZXdfdXNlci0+ZmJfdG9rZW47CiAgICAgICAgICAgICAgICAgICAgJGFjY291bnRfbnVtYmVyID0gJG5ld191c2VyLT5hY2NvdW50X251bWJlcjsKCiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlWydmYl9pZCddID0gJGZiX2lkOwogICAgICAgICAgICAgICAgICAgICRyZXNwb25zZVsnZmJfdG9rZW4nXSA9ICRmYl90b2tlbjsKICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2VbJ2FjY291bnRfbnVtYmVyJ10gPSAkYWNjb3VudF9udW1iZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaWUoJ3RoaXMgY3VzdG9tZXIgYWxyZWFkeSBleGlzdHMnKTsKICAgICAgICAgICAgICAgICAgICAvL1RPRE86IElmIHRoZSBjdXN0b21lciBhbHJlYWR5IGV4aXN0cywgd2UgY2FuIGF1dGhlbnRpY2F0ZSB0aGVtPwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
