@@ -219,12 +219,11 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539257812045">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539258754146">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="177" column="24" />
-        <mark key="]" line="177" column="24" />
-        <mark key="^" line="177" column="24" />
-        <mark key="." line="177" column="24" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="129" />
       </file>
     </filemarks>
     <jumps>
@@ -311,11 +310,11 @@
       <jump line="149" column="41" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>EMAIL</text>
@@ -324,31 +323,31 @@
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFbWFpbEV4aXN0cyAkZXhjZXB0aW9uKSB7CiAgICAgICAgICAgIExvZ0hhbmRsZXI6OmxvZ19leGNlcHRpb24oJGV4Y2VwdGlvbik7CiAgICAgICAgICAgICRyZXNwb25zZVsnZXJyb3JfY29kZSddID0gJGV4Y2VwdGlvbi0+Z2V0Q29kZSgpOwogICAgICAgICAgICAkcmVzcG9uc2VbJ2Vycm9yX21lc3NhZ2UnXSA9ICRleGNlcHRpb24tPmdldE1lc3NhZ2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPnVzZXIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPnVzZXIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWVzc2FnZSA9ICRtZXNzYWdlOwogICAgICAgICR0aGlzLT5jb2RlID0gJGVycm9yQ29kZTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+bWVzc2FnZSA9ICRtZXNzYWdlOwogICAgICAgICR0aGlzLT5jb2RlID0gJGVycm9yQ29kZTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBlcnJvckNvZGUoKQogICAgewogICAgICAgIHJldHVybiA0MDY7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBlcnJvck1lc3NhZ2UoKQogICAgewogICAgICAgICRlcnJvcl9tZXNzYWdlID0gJ0FuIGFjY291bnQgYWxyZWFkeSBleGlzdHMgZm9yICcuJHRoaXMtPmdldE1lc3NhZ2UoKTsKCiAgICAgICAgcmV0dXJuICRlcnJvcl9tZXNzYWdlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBlcnJvckNvZGUoKQogICAgewogICAgICAgIHJldHVybiA0MDY7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIG1vZGV2YVxMb2dIYW5kbGVyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBlcnJvck1lc3NhZ2UoKQogICAgewogICAgICAgICRlcnJvcl9tZXNzYWdlID0gJ0FuIGFjY291bnQgYWxyZWFkeSBleGlzdHMgZm9yICcuJHRoaXMtPmdldE1lc3NhZ2UoKTsKCiAgICAgICAgcmV0dXJuICRlcnJvcl9tZXNzYWdlOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">dXNlIG1vZGV2YVxMb2dIYW5kbGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIFJlc3BlY3RcUmVzdFxSb3V0YWJsZTsK</text>
+        <text encoding="base64">dXNlIG1vZGV2YVxMb2dIYW5kbGVyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
