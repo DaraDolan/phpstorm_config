@@ -219,12 +219,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539098331215">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539257812045">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="152" column="17" />
-        <mark key="]" line="153" column="21" />
-        <mark key="^" line="153" column="21" />
-        <mark key="." line="153" column="21" />
+        <mark key="[" line="177" column="24" />
+        <mark key="]" line="177" column="24" />
+        <mark key="^" line="177" column="24" />
+        <mark key="." line="177" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -311,11 +311,11 @@
       <jump line="149" column="41" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaWUodmFyX2R1bXAoJHRoaXMtPnVzZXIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>EMAIL</text>
