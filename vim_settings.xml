@@ -90,12 +90,12 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539267286142">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539270419146">
         <mark key="'" line="67" column="30" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="177" column="22" />
-        <mark key="." line="177" column="22" />
-        <mark key="^" line="177" column="22" />
+        <mark key="[" line="176" column="7" />
+        <mark key="]" line="179" column="25" />
+        <mark key="." line="179" column="25" />
+        <mark key="^" line="179" column="25" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -343,16 +343,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>subscription_channel_id</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>chunk_amount</text>
       </register>
-      <register name="0" type="4">
-        <text>subscription_channel_id</text>
+      <register name="0" type="2">
+        <text encoding="base64">d2hlcmUgcGhvbmVfbnVtYmVyIElOICg1MTgzODA5NzMzLCA1MTgzMjIyNDAxKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
