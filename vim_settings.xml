@@ -130,11 +130,11 @@
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539268543638">
-        <mark key="[" line="85" column="41" />
-        <mark key="]" line="86" column="35" />
-        <mark key="." line="86" column="35" />
-        <mark key="^" line="86" column="35" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539598337277">
+        <mark key="[" line="83" column="46" />
+        <mark key="]" line="83" column="46" />
+        <mark key="." line="83" column="46" />
+        <mark key="^" line="83" column="46" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
         <mark key="'" line="84" column="0" />
@@ -350,10 +350,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>subscription_chan</text>
