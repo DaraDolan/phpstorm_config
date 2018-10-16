@@ -147,12 +147,12 @@
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539621659836">
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539684948025">
         <mark key="'" line="93" column="9" />
-        <mark key="[" line="100" column="79" />
-        <mark key="]" line="100" column="79" />
-        <mark key="." line="100" column="79" />
-        <mark key="^" line="100" column="79" />
+        <mark key="[" line="112" column="54" />
+        <mark key="]" line="112" column="54" />
+        <mark key="." line="112" column="54" />
+        <mark key="^" line="112" column="54" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
         <mark key="'" line="84" column="0" />
@@ -206,12 +206,12 @@
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539617282207">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539684776861">
         <mark key="'" line="111" column="7" />
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
@@ -376,44 +376,44 @@
       <jump line="99" column="59" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/XtremeImportProfile.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LT5hbGwoKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygnbm8gc3ZjX3N1YnNjcmlwdGlvbiBmb3I6ICcuJGN1cnJlbnRfY2hhbm5lbF9pZCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LT5hbGwoKQ==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wdGVkX2luID0gJGN1cnJlbnRfc3Vic2NyaXB0aW9ucy0+d2hlcmUoJ29wdGVkX2luJywgJz0nLCAneWVzJyktPmNvdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbygnbm8gc3ZjX3N1YnNjcmlwdGlvbiBmb3I6ICcuJGN1cnJlbnRfY2hhbm5lbF9pZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRfc3Vic2NyaXB0aW9ucyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT53aGVyZSgnc3ViY3JpcHRpb25fY2hhbm5lbF9pZCcsICc9JywgMTEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRfc3Vic2NyaXB0aW9ucyk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRzdmNfd2l0aF9ub19zdWJzY3JpcHRpb25zLT5jaHVuaygKLy8gICAgICAgICAgICAkdGhpcy0+Y2h1bmtfYW1vdW50LAovLyAgICAgICAgICAgIGZ1bmN0aW9uICgkc3ZjX25vX3N1YikgewovLyAgICAgICAgICAgICAgICBkZCgkc3ZjX25vX3N1Yik7Ci8vICAgICAgICAgICAgfQovLyAgICAgICAgKTsKCiAgICAgICAgLy9pZiB0aGV5IGFyZSBsZXNzIHRoYW4gY2hhbm5lbCBjb3VudCwgZmluZCBvdXQgd2hpY2ggY2hhbm5lbCBpcyBtaXNzaW5nIGFuZCBhZGQgdGhhdCBjaGFubmVsCi8vICAgICAgICBmb3JlYWNoICgkc3Vic2NyaXB0aW9uX2NoYW5uZWxzIGFzICRjaGFubmVsKSB7Ci8vICAgICAgICAgICAgJGN1cnJlbnRfY2hhbm5lbF9pZCA9ICRjaGFubmVsLT5pZDsKLy8gICAgICAgICAgICAkdGhpcy0+aW5mbygnQ2hhbm5lbCBJRDogJy4kY3VycmVudF9jaGFubmVsX2lkKTsKLy8gICAgICAgICAgICAvL2dldCBhIGxpc3Qgb2YgYWxsIHN2Y19pZCdzIHRoYXQgZG8gbm90IGhhdmUgYW4gZW50cnkgZm9yIHRoaXMgY2hhbm5lbAovLyAgICAgICAgICAgICRzdmNfbGlzdCA9IERCOjpjb25uZWN0aW9uKCd0YXJvdCcpCi8vICAgICAgICAgICAgICAgIC0+dGFibGUoJ3N2YycpCi8vICAgICAgICAgICAgICAgIC0+bGVmdEpvaW4oJ3N2Y19zdWJzY3JpcHRpb25zIGFzIHN1YnMnLCAnc3Vicy5zdmNfaWQnLCAnPScsICdzdmMuc3ZjX2lkJykKLy8gICAgICAgICAgICAgICAgLT5zZWxlY3QoWydzdmMuc3ZjX2lkJ10pCi8vICAgICAgICAgICAgICAgIC0+d2hlcmVOdWxsKCdzdWJzLnN2Y19pZCcpCi8vLy8gICAgICAgICAgICAgICAgLT53aGVyZSgnc3Vicy5zdWJzY3JpcHRpb25fY2hhbm5lbF9pZCcsICchPScsICRjdXJyZW50X2NoYW5uZWxfaWQpCi8vICAgICAgICAgICAgICAgIC0+Z2V0KCk7Ci8vICAgICAgICAgICAgZGQoJHN2Y19saXN0KTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNWQ1N1YnNjcmlwdGlvbjo6Y3JlYXRlKAogICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3N2Y19pZCcgICAgICAgICAgICAgICAgICA9PiAkY3VycmVudF9pdGVtLT5zdmNfaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICdzdWJzY3JpcHRpb25fY2hhbm5lbF9pZCcgPT4gJGN1cnJlbnRfY2hhbm5lbF9pZCwKICAgICAgICAgICAgICAgICAgICAgICAgJ29wdGVkX2luJyAgICAgICAgICAgICAgICA9PiAkb3B0ZWRfaW4sCiAgICAgICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCRjdXJyZW50X3N1YnNjcmlwdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgnTWlzc2luZyBjaGFubmVsOiAnLCAkY3VycmVudF9jaGFubmVsX2lkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9vcHRlZCBpbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9wdGVkX2luX2NvdW50LCAkb3B0ZWRfb3V0X2NvdW50LCAkb3B0ZWRfaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGN1cnJlbnRfc3Vic2NyaXB0aW9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50X2NoYW5uZWxfaWQgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN1cnJlbnRfc3Vic2NyaXB0aW9ucyA9ICRtaXNzaW5nX3N2Y19zdWJzY3JpcHRpb25zLT53aGVyZSgnc3ZjX2lkJywgJz0nLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN1YnNjcmliZWRfY2hhbm5lbHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
