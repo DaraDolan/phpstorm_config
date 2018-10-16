@@ -113,11 +113,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539690565759">
-        <mark key="[" line="477" column="6" />
-        <mark key="]" line="477" column="19" />
-        <mark key="." line="477" column="19" />
-        <mark key="^" line="477" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539698048339">
+        <mark key="[" line="464" column="22" />
+        <mark key="]" line="464" column="65" />
+        <mark key="." line="464" column="65" />
+        <mark key="^" line="464" column="65" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
