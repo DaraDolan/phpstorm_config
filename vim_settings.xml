@@ -113,11 +113,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539614749887">
-        <mark key="[" line="229" column="16" />
-        <mark key="]" line="452" column="27" />
-        <mark key="." line="452" column="27" />
-        <mark key="^" line="452" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539690565759">
+        <mark key="[" line="477" column="6" />
+        <mark key="]" line="477" column="19" />
+        <mark key="." line="477" column="19" />
+        <mark key="^" line="477" column="19" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -147,12 +147,12 @@
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539687687695">
-        <mark key="'" line="134" column="1" />
-        <mark key="[" line="102" column="19" />
-        <mark key="]" line="102" column="35" />
-        <mark key="." line="102" column="35" />
-        <mark key="^" line="102" column="35" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539690336122">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="82" column="40" />
+        <mark key="]" line="82" column="40" />
+        <mark key="." line="82" column="40" />
+        <mark key="^" line="82" column="40" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" timestamp="1538582660772">
         <mark key="'" line="84" column="0" />
@@ -200,13 +200,13 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539620591723">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539689480101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539687618944">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539690367719">
         <mark key="'" line="111" column="7" />
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="30" />
@@ -263,12 +263,12 @@
         <mark key="." line="9" column="73" />
         <mark key="^" line="9" column="73" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SVCSubscription.php" timestamp="1539268522900">
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SVCSubscription.php" timestamp="1539689277967">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="35" column="38" />
-        <mark key="]" line="35" column="60" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+        <mark key="[" line="38" column="35" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
@@ -377,47 +377,48 @@
       <jump line="121" column="37" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
       <jump line="131" column="24" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
       <jump line="23" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
-      <jump line="132" column="1" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
+      <jump line="132" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
+      <jump line="92" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1cGRhdGVkX29uX3NpbHZlcnBvcCcgICAgPT4gJ25vJywK</text>
+        <text encoding="base64">ICAgICAgICAndXBkYXRlZF9vbl9zaWx2ZXJwb3AnICAgID0+ICdubycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJ0FkZGluZyBhbGwgc3Vic2NyaXB0aW9ucyBmb3Igc3ZjX2lkOiAnIC4gJGN1cnJlbnRfaXRlbS0+c3ZjX2lkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGNodW5rX2Ftb3VudCA9IDEwMDAwOwoKICAgIHByaXZhdGUgJHJlY29yZHNfaGFuZGxlZCA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnV2UgZ28gb24nKTsK</text>
+        <text encoding="base64">c2VsZWN0IHN2Yy5lbWFpbCwgc3ZjLmNyZWF0ZWRfYXQsIHNzLnN2Y19pZCwgc3Muc3Vic2NyaXB0aW9uX2NoYW5uZWxfaWQsIGMubmFtZQpmcm9tIHN2YwogICAgICAgbGVmdCBqb2luIHN2Y19zdWJzY3JpcHRpb25zIHNzIG9uIHN2Yy5zdmNfaWQgPSBzcy5zdmNfaWQKICAgICAgIGpvaW4gc3Vic2NyaXB0aW9uX2NoYW5uZWxzIGMgb24gYy5zdWJzY3JpcHRpb25fY2hhbm5lbF9pZCA9IHNzLnN1YnNjcmlwdGlvbl9jaGFubmVsX2lkCmhhdmluZyBzcy5zdmNfaWQgPSBudWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnQ3JlYXRpbmcgdGhlIFNWQyBTdWJzY3JpcHRpb25zIExpc3RzJyk7Cgo=</text>
+        <text encoding="base64">ICAgIGpvaW4gc3Vic2NyaXB0aW9uX2NoYW5uZWxzIGMgb24gYy5zdWJzY3JpcHRpb25fY2hhbm5lbF9pZCA9IHNzLnN1YnNjcmlwdGlvbl9jaGFubmVsX2lkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnV2UgZ28gb24nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29wdGVkX2luJyAgICAgICAgICAgICAgICA9PiAneWVzJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmluZm8oJ3RoZXJlIHdlcmUgbm9uZS4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3VwZGF0ZWRfb25fc2lsdmVycG9wJyAgICA9PiAnbm8nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd1cGRhdGVkX29uX3NpbHZlcnBvcCcgICAgPT4gJ25vJywK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
