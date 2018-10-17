@@ -147,8 +147,10 @@
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" timestamp="1539769488475">
-        <mark key="'" line="35" column="4" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" timestamp="1539784287848">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="118" column="32" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" timestamp="1539700627416">
         <mark key="'" line="135" column="16" />
@@ -278,12 +280,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539782143140">
-        <mark key="'" line="133" column="46" />
-        <mark key="[" line="142" column="74" />
-        <mark key="]" line="142" column="95" />
-        <mark key="^" line="142" column="95" />
-        <mark key="." line="142" column="95" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539785297921">
+        <mark key="'" line="49" column="9" />
+        <mark key="[" line="176" column="9" />
+        <mark key="]" line="176" column="9" />
+        <mark key="." line="176" column="9" />
+        <mark key="^" line="176" column="9" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -293,13 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="C:/code/programming/cake/array/array001.php" />
-      <jump line="84" column="47" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/WebContentTableSeeder.php" />
-      <jump line="21" column="64" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="33" column="17" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="38" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="46" column="25" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="48" column="27" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="56" column="24" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="58" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="59" column="65" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
@@ -393,55 +388,62 @@
       <jump line="80" column="29" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="81" column="29" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="131" column="46" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="84" column="29" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="140" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="141" column="16" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="96" column="13" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="48" column="9" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="4" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
+      <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current_customer</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>current_customer</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>call_date</text>
+        <text encoding="base64">dGhpcy0+aW5mbw==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2ZpcnN0X3JlYWRpbmcnXSA9ICRmaXJzdF9yZWFkaW5nOwogICAgICAgICAgICAkcmVzdWx0X2FycmF5WyRjdXJyZW50X2N1c3RvbWVyXVsnbGFzdF9yZWFkaW5nJ10gPSAkbGFzdF9yZWFkaW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAkY3N2ID0gV3JpdGVyOjpjcmVhdGVGcm9tRmlsZU9iamVjdChuZXcgXFNwbFRlbXBGaWxlT2JqZWN0KCkpOwovLyAgICAgICAgJGNzdi0+aW5zZXJ0T25lKCRoZWFkaW5ncyk7CiAgICAgICAgJGNzdi0+aW5zZXJ0QWxsKCRyZXN1bHRfYXJyYXkpOwogICAgICAgICRjc3YtPm91dHB1dCgncmVjb21tZW5kZXIuY3N2Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNzdiA9IFdyaXRlcjo6Y3JlYXRlRnJvbUZpbGVPYmplY3QobmV3IFxTcGxUZW1wRmlsZU9iamVjdCgpKTsKLy8gICAgICAgICRjc3YtPmluc2VydE9uZSgkaGVhZGluZ3MpOwogICAgICAgICAgICAkY3N2LT5pbnNlcnRBbGwoJHJlc3VsdF9hcnJheSk7CiAgICAgICAgICAgICRjc3YtPm91dHB1dCgncmVjb21tZW5kZXIuY3N2Jyk7CiAgICAgICAgICAgIGRkKCdkb25lJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0X2FycmF5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0X2FycmF5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAkcmVzdWx0X2FycmF5WyRjdXJyZW50X2N1c3RvbWVyXVsndG90YWxfcmV2ZW51ZV9jaGFybSddID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdF9hcnJheSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRfYXJyYXkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNoYXJtX2N1c3RvbWVyX2RldGFpbHMpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbyhjb3VudCgkcmV0dXJuX3JlYWRlcl9hcnJheSkpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnR2V0dGluZyBEYXRhIGZvciAnLiRjdXN0b21lcl9jb3VudC4nIGN1c3RvbWVycy4nKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAtPmhhdmluZygnZmlyc3RfY2FsbCcsICc+JywgJzIwMTYtMDEtMDEgMDA6MDA6MDAnKQovLyAgICAgICAgICAgIC0+aGF2aW5nKCdjYWxsX2NvdW50JywgJz4nLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmluZm8oJ2JyZWFrJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call_date</last-search>
+      <last-search encoding="base64">dGhpcy0+aW5mbw==</last-search>
       <last-offset />
-      <last-pattern>call_date</last-pattern>
+      <last-pattern encoding="base64">dGhpcy0+aW5mbw==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -465,6 +467,8 @@
         <entry>subscription_chan</entry>
         <entry>w</entry>
         <entry>call_date</entry>
+        <entry>dd(</entry>
+        <entry encoding="base64">dGhpcy0+aW5mbw==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
