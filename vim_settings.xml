@@ -230,6 +230,9 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="22" />
       </file>
+      <file name="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" timestamp="1539792589656">
+        <mark key="'" line="91" column="4" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539188013806">
         <mark key="'" line="149" column="41" />
         <mark key="[" line="149" column="17" />
@@ -280,12 +283,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539788112987">
-        <mark key="'" line="49" column="9" />
-        <mark key="[" line="84" column="59" />
-        <mark key="]" line="84" column="58" />
-        <mark key="." line="84" column="58" />
-        <mark key="^" line="84" column="58" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539792964650">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="177" column="17" />
+        <mark key="]" line="177" column="89" />
+        <mark key="." line="177" column="89" />
+        <mark key="^" line="177" column="89" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -295,14 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="24" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="58" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="59" column="65" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
-      <jump line="84" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/includes/tarot/routes/routes_v8.php" />
-      <jump line="21" column="36" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
-      <jump line="124" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
-      <jump line="97" column="13" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
-      <jump line="25" column="16" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="23" column="29" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="219" column="0" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" />
       <jump line="67" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
@@ -395,46 +390,54 @@
       <jump line="48" column="9" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="4" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
       <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
+      <jump line="75" column="16" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="184" column="25" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="68" column="21" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="180" column="45" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="7" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="177" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="64" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="91" column="4" filename="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">dGhpcy0+aW5mbw==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ3RvdGFsX3JldmVudWUnXSA9ICR0b3RhbF9yZXZlbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZmlsZSA9IHN0b3JhZ2VfcGF0aCgncmVjb21tZW5kZXIuY3N2Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBqamtrOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNzdiA9IFdyaXRlcjo6Y3JlYXRlRnJvbUZpbGVPYmplY3QobmV3IFxTcGxUZW1wRmlsZU9iamVjdCgpKTsKLy8gICAgICAgICRjc3YtPmluc2VydE9uZSgkaGVhZGluZ3MpOwogICAgICAgICAgICAkY3N2LT5pbnNlcnRBbGwoJHJlc3VsdF9hcnJheSk7CiAgICAgICAgICAgICRjc3YtPm91dHB1dCgncmVjb21tZW5kZXIuY3N2Jyk7CiAgICAgICAgICAgIGRkKCdkb25lJyk7Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxDb21tYW5kOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQmlsbGluZ1xFeHBlcnRDYWxsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0X2FycmF5KTsK</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0X2FycmF5KTsK</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcTWFya2V0aW5nU3RhdHNcUmVhZGVyRGFpbHlTY29yZXM7CnVzZSBDYXJib25cQ2FyYm9uOwp1c2UgQXBwXE1vZGVsc1xUYXJvdFxSZWFkZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdF9hcnJheSk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBqamtrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNzdiA9IFdyaXRlcjo6Y3JlYXRlRnJvbUZpbGVPYmplY3QobmV3IFxTcGxUZW1wRmlsZU9iamVjdCgpKTsKLy8gICAgICAgICRjc3YtPmluc2VydE9uZSgkaGVhZGluZ3MpOwogICAgICAgICAgICAkY3N2LT5pbnNlcnRBbGwoJHJlc3VsdF9hcnJheSk7CiAgICAgICAgICAgICRjc3YtPm91dHB1dCgncmVjb21tZW5kZXIuY3N2Jyk7CiAgICAgICAgICAgIGRkKCdkb25lJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdGhpcy0+aW5mbyhjb3VudCgkcmV0dXJuX3JlYWRlcl9hcnJheSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+aW5mbygnR2V0dGluZyBEYXRhIGZvciAnLiRjdXN0b21lcl9jb3VudC4nIGN1c3RvbWVycy4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0X2FycmF5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,6 +507,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
