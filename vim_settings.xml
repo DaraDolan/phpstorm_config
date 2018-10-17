@@ -63,11 +63,6 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/.env" timestamp="1538655204076">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1539099782871">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="25" column="60" />
@@ -80,10 +75,11 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" timestamp="1539185970421">
         <mark key="'" line="55" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539786019170">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539788325980">
+        <mark key="[" line="26" column="30" />
+        <mark key="]" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/assets/shared_dir/logs/2018_10_10.log" timestamp="1539187812411">
         <mark key="'" line="6" column="85" />
@@ -213,11 +209,6 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/core/DBConnections.php" timestamp="1538737949415">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539689480101">
         <mark key="[" line="0" column="0" />
       </file>
@@ -262,11 +253,6 @@
       <file name="C:/code/psytechdigital/tarot/old_config/config.php" timestamp="1538666768960">
         <mark key="'" line="40" column="8" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVC.php" timestamp="1538653904794">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1539604598629">
         <mark key="'" line="113" column="17" />
       </file>
@@ -294,12 +280,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539785953675">
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539788112987">
         <mark key="'" line="49" column="9" />
-        <mark key="[" line="147" column="63" />
-        <mark key="]" line="147" column="78" />
-        <mark key="." line="147" column="78" />
-        <mark key="^" line="147" column="78" />
+        <mark key="[" line="84" column="59" />
+        <mark key="]" line="84" column="58" />
+        <mark key="." line="84" column="58" />
+        <mark key="^" line="84" column="58" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -411,11 +397,11 @@
       <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBqamtrOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>total_revenue</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">dGhpcy0+aW5mbw==</text>
