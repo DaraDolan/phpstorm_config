@@ -278,12 +278,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539866610531">
-        <mark key="'" line="65" column="20" />
-        <mark key="[" line="72" column="60" />
-        <mark key="]" line="72" column="86" />
-        <mark key="." line="72" column="86" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539868029978">
+        <mark key="'" line="72" column="86" />
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="79" />
         <mark key="^" line="72" column="86" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="27" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
       <jump line="62" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="133" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="26" column="35" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
@@ -393,10 +392,11 @@
       <jump line="173" column="25" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="202" column="34" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="65" column="20" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="72" column="86" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>country_code</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRlbWFpbF9hZGRyZXNzOwo=</text>
       </register>
       <register name="-" type="4">
         <text>country_code</text>
@@ -408,31 +408,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRlbWFpbF9hZGRyZXNzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRwaG9uZV9udW1iZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRlbWFpbF9hZGRyZXNzOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRfYXJyYXlbJGN1cnJlbnRfY3VzdG9tZXJdWydlbWFpbF9hZGRyZXNzJ10gPSAkY3VzdG9tZXJfZW1haWxzWyRjdXJyZW50X2N1c3RvbWVyXS0+ZW1haWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRwaG9uZV9udW1iZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZW1haWxzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRfYXJyYXlbJGN1cnJlbnRfY3VzdG9tZXJdWydlbWFpbF9hZGRyZXNzJ10gPSAkY3VzdG9tZXJfZW1haWxzWyRjdXJyZW50X2N1c3RvbWVyXS0+ZW1haWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIExlYWd1ZVxDc3ZcV3JpdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZW1haWxzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQmlsbGluZ1xFeHBlcnRDYWxsOwo=</text>
+        <text encoding="base64">dXNlIExlYWd1ZVxDc3ZcV3JpdGVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVGFyb3RcU1ZDOwo=</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQmlsbGluZ1xFeHBlcnRDYWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZGV0YWlscyk7Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVGFyb3RcU1ZDOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdzdmMuY3JlYXRlZF9hdCcsICdkZXNjJykK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZGV0YWlscyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5vcmRlckJ5KCdzdmMuY3JlYXRlZF9hdCcsICdkZXNjJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
