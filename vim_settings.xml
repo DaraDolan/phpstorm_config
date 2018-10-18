@@ -225,8 +225,8 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="22" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" timestamp="1539856059280">
-        <mark key="'" line="88" column="14" />
+      <file name="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" timestamp="1539857062896">
+        <mark key="'" line="119" column="48" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1539188013806">
         <mark key="'" line="149" column="41" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="58" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
       <jump line="76" column="0" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
       <jump line="36" column="81" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
       <jump line="27" column="65" filename="C:/code/psytechdigital/tarot/includes/header_top.php" />
@@ -393,6 +392,7 @@
       <jump line="17" column="4" filename="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" />
       <jump line="81" column="12" filename="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" />
       <jump line="88" column="14" filename="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" />
+      <jump line="119" column="48" filename="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
