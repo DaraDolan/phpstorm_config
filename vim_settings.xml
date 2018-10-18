@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/XtremeImportProfile.php" timestamp="1539614919417">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="C:/code/psytechdigital/automated_tasks/config/mail.php" timestamp="1539872469202">
+        <mark key="[" line="58" column="47" />
+        <mark key="]" line="58" column="55" />
+        <mark key="^" line="58" column="55" />
+        <mark key="." line="58" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console_1.sql" timestamp="1537960701396">
         <mark key="[" line="1" column="17" />
@@ -38,6 +39,13 @@
         <mark key="[" line="48" column="24" />
         <mark key="]" line="50" column="23" />
       </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" timestamp="1539881639498">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="155" column="41" />
+        <mark key="]" line="155" column="41" />
+        <mark key="^" line="155" column="41" />
+        <mark key="." line="155" column="41" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" timestamp="1538741971099">
         <mark key="'" line="42" column="29" />
         <mark key="[" line="44" column="72" />
@@ -51,6 +59,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Downloads/5 Free Minutes list.csv" timestamp="1539873902647">
+        <mark key="'" line="2" column="5" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Exceptions/GoogleIDExists.php" timestamp="1539187860446">
         <mark key="[" line="6" column="5" />
         <mark key="]" line="6" column="19" />
@@ -63,6 +77,11 @@
         <mark key="]" line="58" column="15" />
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="20" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/.env" timestamp="1538655204076">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="1" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1539099782871">
         <mark key="[" line="6" column="36" />
@@ -89,6 +108,12 @@
         <mark key="^" line="6" column="194" />
         <mark key="." line="6" column="194" />
       </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/NexmoOutbox.php" timestamp="1539880676664">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="C:/code/programming/cake/20181009Duffel/index.php" timestamp="1539088056901">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="27" column="71" />
@@ -96,11 +121,13 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/.env" timestamp="1539864622411">
-        <mark key="'" line="80" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/code/psytechdigital/automated_tasks/.env" timestamp="1539872518346">
+        <mark key="a" line="19" column="0" />
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="64" column="27" />
+        <mark key="." line="64" column="27" />
+        <mark key="^" line="64" column="27" />
       </file>
       <file name="C:/code/programming/cake/20181009Duffel/CakeType.php" timestamp="1539084937240">
         <mark key="[" line="1" column="0" />
@@ -114,12 +141,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539866280012">
-        <mark key="'" line="489" column="20" />
-        <mark key="[" line="480" column="29" />
-        <mark key="]" line="481" column="0" />
-        <mark key="." line="481" column="0" />
-        <mark key="^" line="481" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539881061521">
+        <mark key="'" line="525" column="20" />
+        <mark key="[" line="498" column="25" />
+        <mark key="]" line="498" column="25" />
+        <mark key="." line="498" column="25" />
+        <mark key="^" line="498" column="25" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -134,8 +161,11 @@
         <mark key="." line="67" column="79" />
         <mark key="^" line="70" column="38" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/config/logging.php" timestamp="1539264966555">
-        <mark key="'" line="55" column="0" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" timestamp="1539188335849">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1539093081535">
         <mark key="'" line="125" column="27" />
@@ -193,8 +223,11 @@
         <mark key="^" line="57" column="50" />
         <mark key="." line="57" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539185482943">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/PaymentEvent.php" timestamp="1539881977700">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
         <mark key="'" line="24" column="27" />
@@ -205,25 +238,40 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1539689480101">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/core/DBConnections.php" timestamp="1538737949415">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1537958903012">
         <mark key="'" line="35" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539864168088">
-        <mark key="'" line="21" column="22" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Mail/ReaderReccomender.php" timestamp="1539874520682">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="45" />
+        <mark key="^" line="31" column="45" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1539879865347">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="157" column="60" />
+        <mark key="." line="148" column="0" />
+        <mark key="^" line="147" column="110" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/ApplyMinutes.php" timestamp="1539703445801">
-        <mark key="'" line="63" column="12" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="22" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Marketing/Referral/ProcessReferralAwards.php" timestamp="1539877627900">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="104" column="33" />
+      </file>
+      <file name="C:/code/psytechdigital/automated_tasks/resources/views/emails/recommender.blade.php" timestamp="1539872939285">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
+        <mark key="^" line="4" column="50" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/vendor/league/csv/src/AbstractCsv.php" timestamp="1539857062896">
         <mark key="'" line="119" column="48" />
@@ -248,8 +296,21 @@
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="32" />
       </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Mail/ReaderRecommender.php" timestamp="1539873260113">
+        <mark key="[" line="31" column="46" />
+        <mark key="]" line="31" column="46" />
+        <mark key="." line="31" column="46" />
+      </file>
       <file name="C:/code/psytechdigital/tarot/old_config/config.php" timestamp="1538666768960">
         <mark key="'" line="40" column="8" />
+      </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVC.php" timestamp="1538653904794">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/CreditCardAccounts.php" timestamp="1539875610858">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1539604598629">
         <mark key="'" line="113" column="17" />
@@ -260,6 +321,13 @@
         <mark key="]" line="20" column="76" />
         <mark key="." line="20" column="76" />
         <mark key="^" line="20" column="76" />
+      </file>
+      <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/Customer.php" timestamp="1539875649002">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="31" />
+        <mark key="]" line="44" column="30" />
+        <mark key="^" line="44" column="30" />
+        <mark key="." line="44" column="30" />
       </file>
       <file name="C:/code/psytechdigital/tarot/includes/views_templates/common/header.php" timestamp="1538732717672">
         <mark key="'" line="4" column="0" />
@@ -278,12 +346,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539870544173">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="71" column="86" />
-        <mark key="." line="65" column="0" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539874605467">
+        <mark key="'" line="113" column="26" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="23" />
+        <mark key="^" line="225" column="40" />
+        <mark key="." line="225" column="40" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -293,28 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="11" column="13" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="12" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="83" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
-      <jump line="66" column="91" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="58" column="12" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="17" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
-      <jump line="51" column="35" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="21" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/TarotApp/User.php" />
-      <jump line="47" column="18" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/TarotApp/User.php" />
-      <jump line="164" column="6" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
-      <jump line="53" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
-      <jump line="1955" column="22" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
-      <jump line="1966" column="15" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" />
-      <jump line="50" column="33" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="71" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="40" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="66" column="37" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
-      <jump line="64" column="20" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="53" column="12" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
-      <jump line="152" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
-      <jump line="75" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
       <jump line="77" column="8" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
       <jump line="21" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
       <jump line="10" column="32" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" />
@@ -389,65 +435,86 @@
       <jump line="109" column="52" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="173" column="25" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="202" column="34" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
-      <jump line="65" column="20" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="72" column="86" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="205" column="39" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="99" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="65" column="19" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="224" column="34" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="66" column="21" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="17" column="0" filename="C:/code/psytechdigital/automated_tasks/.env" />
+      <jump line="113" column="26" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/5 Free Minutes list.csv" />
+      <jump line="147" column="0" filename="$USER_HOME$/Downloads/5 Free Minutes list.csv" />
+      <jump line="1" column="5" filename="$USER_HOME$/Downloads/5 Free Minutes list.csv" />
+      <jump line="51" column="15" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="33" column="21" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="53" column="50" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="54" column="15" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="31" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Mail/ReaderReccomender.php" />
+      <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Mail/ReaderReccomender.php" />
+      <jump line="64" column="13" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="77" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="59" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/CreditCardAccounts.php" />
+      <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/Customer.php" />
+      <jump line="71" column="74" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="57" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="6" column="6" filename="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/PaymentEvent.php" />
+      <jump line="105" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW1pdCg0MCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>country_code</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>limit</text>
+        <text>mail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRlbWFpbF9hZGRyZXNzOwo=</text>
+        <text encoding="base64">ICAgICAgICAnQmlsbGluZ05vJywKICAgICAgICAnVGFyZ2V0TW9iaWxlJywKICAgICAgICAnTWVzc2FnZScsCiAgICAgICAgJ0NyZWF0ZVN0YW1wJywKICAgICAgICAnU3RhdHVzJywKICAgICAgICAnUHJvY2Vzc2VkU3RhbXAnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW1pdCg0MCkK</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRlbWFpbF9hZGRyZXNzOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdF9hcnJheVskY3VycmVudF9jdXN0b21lcl1bJ2VtYWlsX2FkZHJlc3MnXSA9ICRwaG9uZV9udW1iZXI7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXN1bHRfYXJyYXlbJGN1cnJlbnRfY3VzdG9tZXJdWydlbWFpbF9hZGRyZXNzJ10gPSAkY3VzdG9tZXJfZW1haWxzWyRjdXJyZW50X2N1c3RvbWVyXS0+ZW1haWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZW1haWxzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIExlYWd1ZVxDc3ZcV3JpdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcQmlsbGluZ1xFeHBlcnRDYWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIEFwcFxNb2RlbHNcVGFyb3RcU1ZDOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VzdG9tZXJfZGV0YWlscyk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZVJlYWRpbmcoJHF1ZXJ5KQogICAgewogICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCdFdmVudFR5cGUnLCAnPScsIDEpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>limit</last-search>
+      <last-search>mail</last-search>
       <last-offset />
-      <last-pattern>limit</last-pattern>
+      <last-pattern>mail</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
         <entry>billing</entry>
         <entry>primaryKey</entry>
         <entry>die</entry>
@@ -467,6 +534,7 @@
         <entry>dd(</entry>
         <entry>dd</entry>
         <entry>limit</entry>
+        <entry>mail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
