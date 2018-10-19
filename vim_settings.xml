@@ -83,11 +83,11 @@
         <mark key="]" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1539099782871">
-        <mark key="[" line="6" column="36" />
-        <mark key="]" line="25" column="60" />
-        <mark key="^" line="25" column="60" />
-        <mark key="." line="25" column="60" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1539961482783">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="36" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/code/psytechdigital/tarot/index.php" timestamp="1538666544560">
         <mark key="'" line="47" column="0" />
@@ -141,12 +141,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539946322073">
-        <mark key="'" line="517" column="20" />
-        <mark key="[" line="498" column="26" />
-        <mark key="]" line="501" column="19" />
-        <mark key="." line="501" column="19" />
-        <mark key="^" line="501" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1539961620659">
+        <mark key="'" line="527" column="20" />
+        <mark key="[" line="517" column="23" />
+        <mark key="]" line="517" column="23" />
+        <mark key="." line="517" column="23" />
+        <mark key="^" line="517" column="18" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -462,44 +462,44 @@
       <jump line="78" column="14" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW1pdCg0MCkK</text>
+      <register name="&quot;" type="4">
+        <text>gal</text>
       </register>
       <register name="-" type="4">
-        <text>Charm</text>
+        <text>gal</text>
       </register>
       <register name="/" type="4">
         <text>limit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnQmlsbGluZ05vJywKICAgICAgICAnVGFyZ2V0TW9iaWxlJywKICAgICAgICAnTWVzc2FnZScsCiAgICAgICAgJ0NyZWF0ZVN0YW1wJywKICAgICAgICAnU3RhdHVzJywKICAgICAgICAnUHJvY2Vzc2VkU3RhbXAnLAo=</text>
+        <text encoding="base64">d2hlcmUgZW1haWwgPSAnbm9sYWdhbDRldmVyQGdtYWlsLmNvbSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5saW1pdCg0MCkK</text>
+        <text encoding="base64">d2hlcmUgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVhZGVyX2RldGFpbHMtPnJlYWRlcl9uYW1lKTsK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVhZGVyX2RldGFpbHMtPnJlYWRlcl9uYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5saW1pdCg0MCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSBgbmV4bW9fb3V0Ym94YCAoCiAgYFNNU0lEYCBpbnQoMTEpIE5PVCBOVUxMIGF1dG9faW5jcmVtZW50LAogIGBCaWxsaW5nTm9gIGludCgxMSkgTk9UIE5VTEwsCiAgYFRhcmdldE1vYmlsZWAgdmFyY2hhcigzMCkgTk9UIE5VTEwsCiAgYE1lc3NhZ2VgIHZhcmNoYXIoNTAwKSBOT1QgTlVMTCwKICBgQ3JlYXRlU3RhbXBgIGRhdGV0aW1lIE5PVCBOVUxMLAogIGBTdGF0dXNgIHNldCgnUGVuZGluZycsJ0NvbXBsZXRlJywnRmFpbGVkJykgTk9UIE5VTEwsCiAgYFByb2Nlc3NlZFN0YW1wYCBkYXRldGltZSBOT1QgTlVMTCwKICBQUklNQVJZIEtFWSAgKGBTTVNJRGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD00NTgyODk0IERFRkFVTFQgQ0hBUlNFVD11dGY4Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVhZGVyX2RldGFpbHMtPnJlYWRlcl9uYW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVhZGVyX2RldGFpbHMtPnJlYWRlcl9uYW1lKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVhZGVyX2RldGFpbHMgPSBSZWFkZXI6OndoZXJlKCdyZWFkZXJfaWQnLCAnPScsICR0aGlzLT5yZWFkZXJfaWQpCiAgICAgICAgICAgIC0+Zmlyc3RPckZhaWwoKQo=</text>
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBgbmV4bW9fb3V0Ym94YCAoCiAgYFNNU0lEYCBpbnQoMTEpIE5PVCBOVUxMIGF1dG9faW5jcmVtZW50LAogIGBCaWxsaW5nTm9gIGludCgxMSkgTk9UIE5VTEwsCiAgYFRhcmdldE1vYmlsZWAgdmFyY2hhcigzMCkgTk9UIE5VTEwsCiAgYE1lc3NhZ2VgIHZhcmNoYXIoNTAwKSBOT1QgTlVMTCwKICBgQ3JlYXRlU3RhbXBgIGRhdGV0aW1lIE5PVCBOVUxMLAogIGBTdGF0dXNgIHNldCgnUGVuZGluZycsJ0NvbXBsZXRlJywnRmFpbGVkJykgTk9UIE5VTEwsCiAgYFByb2Nlc3NlZFN0YW1wYCBkYXRldGltZSBOT1QgTlVMTCwKICBQUklNQVJZIEtFWSAgKGBTTVNJRGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD00NTgyODk0IERFRkFVTFQgQ0hBUlNFVD11dGY4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXE1haWw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVhZGVyX2RldGFpbHMgPSBSZWFkZXI6OndoZXJlKCdyZWFkZXJfaWQnLCAnPScsICR0aGlzLT5yZWFkZXJfaWQpCiAgICAgICAgICAgIC0+Zmlyc3RPckZhaWwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXE1haWw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
