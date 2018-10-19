@@ -346,12 +346,12 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/composer_packages/illuminate/database/Eloquent/Model.php" timestamp="1539168681124">
         <mark key="'" line="1966" column="15" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539874605467">
-        <mark key="'" line="113" column="26" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="23" />
-        <mark key="^" line="225" column="40" />
-        <mark key="." line="225" column="40" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" timestamp="1539944985989">
+        <mark key="'" line="221" column="28" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="224" column="40" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/ApiClients.php" timestamp="1537959799023">
         <mark key="[" line="38" column="0" />
@@ -361,7 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Registration/GoogleCustomer.php" />
       <jump line="10" column="32" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" />
       <jump line="28" column="10" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" />
       <jump line="38" column="18" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" />
@@ -461,10 +460,11 @@
       <jump line="6" column="6" filename="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/PaymentEvent.php" />
       <jump line="105" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" />
       <jump line="97" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardMinutes.php" />
+      <jump line="222" column="28" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXE1haWw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -476,31 +476,31 @@
         <text encoding="base64">ICAgICAgICAnQmlsbGluZ05vJywKICAgICAgICAnVGFyZ2V0TW9iaWxlJywKICAgICAgICAnTWVzc2FnZScsCiAgICAgICAgJ0NyZWF0ZVN0YW1wJywKICAgICAgICAnU3RhdHVzJywKICAgICAgICAnUHJvY2Vzc2VkU3RhbXAnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXE1haWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiAyNDcyZjUwZWUxMzU2OWI3YTA1NzhlZjBhNWM3ZDhhNTM2NGE1YTE2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY29wZVJlYWRpbmcoJHF1ZXJ5KQogICAgewogICAgICAgIHJldHVybiAkcXVlcnktPndoZXJlKCdFdmVudFR5cGUnLCAnPScsIDEpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
