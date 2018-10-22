@@ -140,11 +140,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540205229758">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540206523749">
         <mark key="'" line="7" column="5" />
-        <mark key="[" line="553" column="0" />
-        <mark key="]" line="553" column="0" />
-        <mark key="." line="553" column="0" />
+        <mark key="[" line="560" column="8" />
+        <mark key="]" line="561" column="15" />
+        <mark key="." line="561" column="15" />
+        <mark key="^" line="561" column="15" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -456,43 +457,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>APIErrors::INTERNAL</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>APIErrors::INTERNAL</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>subscription</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlWydlcnJvcl9jb2RlJ10gPSBBUElFcnJvcnM6OklOVEVSTkFMOwo=</text>
+        <text encoding="base64">d2hlcmUgd20uZW1haWwgPSAnbWlzc3lsb3ZlMjAxMkBob3RtYWlsLmNvLnVrJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFRhcm90QXBpXERhdGFiYXNlXE1vZGVsc1xUYXJvdFxTVkM7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBqajsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIFJlc3BlY3RcUmVzdFxSb3V0YWJsZTsK</text>
+        <text encoding="base64">dXNlIFRhcm90QXBpXERhdGFiYXNlXE1vZGVsc1xUYXJvdFxTVkM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIG1vZGV2YVxVcmw7Cg==</text>
+        <text encoding="base64">dXNlIFJlc3BlY3RcUmVzdFxSb3V0YWJsZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNlIFRhcm90QXBpXFJlZ2lzdHJhdGlvblxFbWFpbDsKdXNlIFRhcm90QXBpXFJlZ2lzdHJhdGlvblxFbWFpbEN1c3RvbWVyOwo=</text>
+        <text encoding="base64">dXNlIG1vZGV2YVxVcmw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkQWNjb3VudHMKd2hlcmUgQmlsbGluZ05vID0gOTc4MDI7Cg==</text>
+        <text encoding="base64">dXNlIFRhcm90QXBpXFJlZ2lzdHJhdGlvblxFbWFpbDsKdXNlIFRhcm90QXBpXFJlZ2lzdHJhdGlvblxFbWFpbEN1c3RvbWVyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgQmlsbGluZ05vOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkQWNjb3VudHMKd2hlcmUgQmlsbGluZ05vID0gOTc4MDI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbTsK</text>
+        <text encoding="base64">d2hlcmUgQmlsbGluZ05vOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2hlcmUgOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">d2hlcmUgOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
