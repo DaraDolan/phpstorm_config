@@ -94,6 +94,9 @@
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/libraries/APIErrors.php" timestamp="1539185970421">
         <mark key="'" line="55" column="14" />
       </file>
+      <file name="C:/code/psytechdigital/tarot/members_ac_details.php" timestamp="1540215178033">
+        <mark key="'" line="88" column="32" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539866320814">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="29" column="16" />
@@ -140,12 +143,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540206523749">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540215080231">
         <mark key="'" line="7" column="5" />
-        <mark key="[" line="560" column="8" />
-        <mark key="]" line="561" column="15" />
-        <mark key="." line="561" column="15" />
-        <mark key="^" line="561" column="15" />
+        <mark key="[" line="562" column="16" />
+        <mark key="]" line="562" column="16" />
+        <mark key="." line="562" column="16" />
+        <mark key="^" line="562" column="16" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -354,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="59" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/XtremeImportProfile.php" />
       <jump line="121" column="37" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
       <jump line="131" column="24" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
       <jump line="23" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
@@ -454,19 +456,20 @@
       <jump line="17" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="66" column="4" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
       <jump line="0" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/MarketingSubscriptionController.php" />
+      <jump line="88" column="32" filename="C:/code/psytechdigital/tarot/members_ac_details.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>subscription</text>
+        <text>Name:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">d2hlcmUgd20uZW1haWwgPSAnbWlzc3lsb3ZlMjAxMkBob3RtYWlsLmNvLnVrJzsK</text>
+        <text encoding="base64">d2hlcmUgZW1haWwgPSAnZmFjaWFsc2J5ZGViYmllQHlhaG9vLmNvbSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBqajsK</text>
@@ -500,15 +503,14 @@
       </register>
     </registers>
     <search>
-      <last-search>subscription</last-search>
+      <last-search>Name:</last-search>
       <last-offset />
-      <last-pattern>subscription</last-pattern>
+      <last-pattern>Name:</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>die</entry>
         <entry>len</entry>
         <entry>length</entry>
         <entry>EMAIL</entry>
@@ -528,6 +530,7 @@
         <entry>Charm</entry>
         <entry>limit</entry>
         <entry>subscription</entry>
+        <entry>Name:</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
