@@ -252,12 +252,12 @@
         <mark key="." line="31" column="45" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1540200887221">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1540203638799">
         <mark key="'" line="147" column="110" />
-        <mark key="[" line="162" column="5" />
-        <mark key="]" line="162" column="25" />
-        <mark key="." line="162" column="25" />
-        <mark key="^" line="162" column="25" />
+        <mark key="[" line="167" column="38" />
+        <mark key="]" line="167" column="38" />
+        <mark key="." line="167" column="38" />
+        <mark key="^" line="167" column="38" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
@@ -461,11 +461,11 @@
       <jump line="147" column="110" filename="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbTsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>gal</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>subscription</text>
