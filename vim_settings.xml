@@ -142,12 +142,12 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="11" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540303338785">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540304979374">
         <mark key="'" line="561" column="0" />
-        <mark key="[" line="622" column="8" />
-        <mark key="]" line="623" column="41" />
-        <mark key="." line="623" column="41" />
-        <mark key="^" line="623" column="41" />
+        <mark key="[" line="627" column="8" />
+        <mark key="]" line="628" column="40" />
+        <mark key="." line="628" column="40" />
+        <mark key="^" line="628" column="40" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -255,6 +255,9 @@
         <mark key="." line="126" column="21" />
         <mark key="^" line="126" column="21" />
       </file>
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAccount.php" timestamp="1540304568701">
+        <mark key="'" line="219" column="0" />
+      </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/SubscriptionChannel.php" timestamp="1537969071661">
         <mark key="'" line="39" column="5" />
       </file>
@@ -355,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="12" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/ApplyMinutes.php" />
-      <jump line="47" column="23" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="19" column="58" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="474" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
       <jump line="35" column="4" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Stats/CreateDDIUsageTable.php" />
@@ -455,6 +456,8 @@
       <jump line="9" column="35" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
       <jump line="144" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
       <jump line="561" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
+      <jump line="52" column="46" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAccount.php" />
+      <jump line="219" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAccount.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
