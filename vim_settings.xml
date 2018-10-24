@@ -160,12 +160,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540394822708">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540398337647">
         <mark key="'" line="561" column="0" />
-        <mark key="[" line="646" column="19" />
-        <mark key="]" line="646" column="22" />
-        <mark key="." line="646" column="22" />
-        <mark key="^" line="646" column="22" />
+        <mark key="[" line="662" column="10" />
+        <mark key="]" line="662" column="10" />
+        <mark key="." line="662" column="10" />
+        <mark key="^" line="662" column="10" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -534,10 +534,10 @@
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>price</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>15</text>
@@ -546,31 +546,31 @@
         <text encoding="base64">ICAgICQoJyNzaWdudXBfb2ZmZXJfcHJpY2UnKS50ZXh0KHNlbGVjdGVkX2N1c3RvbWVyWzBdLnNpZ251cF9vZmZlcl9wcmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB3ZWJfbWVtYmVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">d2hlcmUgY29kZTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj10YXJvdAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2hvdyBzY2hlbWFzIDsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zc2libGVfcm91dGVzID0gQ3JlZGl0Q2FyZFJvdXRlOjphbGwoKTsK</text>
+        <text encoding="base64">REJfQ09OTkVDVElPTj10YXJvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkUm91dGluZzsK</text>
+        <text encoding="base64">c2hvdyBzY2hlbWFzIDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8odmFyX2R1bXAoJHRoaXMtPnJvdXRlTW9kZWwpKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcG9zc2libGVfcm91dGVzID0gQ3JlZGl0Q2FyZFJvdXRlOjphbGwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2c6OmluZm8odmFyX2R1bXAoJHBvc3NpYmxlX3JvdXRlcykpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBDcmVkaXRDYXJkUm91dGluZzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
