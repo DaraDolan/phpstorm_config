@@ -95,8 +95,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" timestamp="1540397119053">
-        <mark key="'" line="49" column="83" />
+      <file name="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" timestamp="1540460346157">
+        <mark key="'" line="56" column="23" />
         <mark key="[" line="57" column="75" />
         <mark key="]" line="57" column="81" />
         <mark key="^" line="57" column="81" />
@@ -160,11 +160,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540398482323">
-        <mark key="'" line="561" column="0" />
-        <mark key="[" line="693" column="0" />
-        <mark key="]" line="693" column="0" />
-        <mark key="." line="693" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540462876098">
+        <mark key="[" line="730" column="25" />
+        <mark key="]" line="733" column="15" />
+        <mark key="^" line="733" column="15" />
+        <mark key="." line="733" column="15" />
       </file>
       <file name="C:/code/programming/cake/composer.json" timestamp="1539085851159">
         <mark key="[" line="6" column="13" />
@@ -248,6 +248,9 @@
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/.env" timestamp="1537962852881">
         <mark key="'" line="35" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/WebAccountController.php" timestamp="1540460825988">
+        <mark key="'" line="158" column="42" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/SubscriptionChannelsTableSeeder.php" timestamp="1538565228841">
         <mark key="[" line="47" column="54" />
@@ -427,9 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
-      <jump line="70" column="21" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
-      <jump line="109" column="52" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="173" column="25" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="202" column="34" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
       <jump line="72" column="86" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/Readers/ReaderRecommender.php" />
@@ -522,11 +522,14 @@
       <jump line="17" column="0" filename="C:/code/psytechdigital/tarot_api/migrations/database/seeds/DatabaseSeeder.php" />
       <jump line="323" column="52" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="57" column="81" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
-      <jump line="56" column="60" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="49" column="83" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="365" column="68" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="435" column="54" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="355" column="65" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
+      <jump line="56" column="23" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
+      <jump line="108" column="49" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/WebAccountController.php" />
+      <jump line="158" column="42" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/WebAccountController.php" />
+      <jump line="743" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -536,55 +539,54 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>15</text>
+        <text>star_sign_id</text>
       </register>
-      <register name="0" type="4">
-        <text>901146</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0CmVtYWlsLAogICAgICAgY3JlYXRpb25fc291cmNlLAogICAgICAgd2ViX2FjY291bnQsCiAgICAgICB3ZWJfYWNjb3VudF9jcmVhdGVkX2F0LAogICAgICAgYXBwX2luc3RhbGxlZCwKICAgICAgIGFwcF9pbnN0YWxsZWRfYXQsCiAgICAgICBjcmVhdGVkX2F0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjdXN0b21lcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB3ZWJfbWVtYmVycwo=</text>
+        <text encoding="base64">c2hvdyBjcmVhdGUgdGFibGUgc3ZjOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2hlcmUgY29kZTsK</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBzdmNgICgKICAgICAgIGBzdmNfaWRgIGludCgxMCkgdW5zaWduZWQgTk9UIE5VTEwgYXV0b19pbmNyZW1lbnQsCiAgICAgICBgZW1haWxgIHZhcmNoYXIoMjU1KSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgZmJfaWRgIHZhcmNoYXIoMjU1KSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgYXBwX3Bob25lYCB2YXJjaGFyKDMwKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgYXBwX3ByZWZpeGAgc21hbGxpbnQoNCkgdW5zaWduZWQgZGVmYXVsdCBOVUxMLAogICAgICAgYGFwcF9icmFuZGAgaW50KDEwKSB1bnNpZ25lZCBkZWZhdWx0IE5VTEwsCiAgICAgICBgZmlyc3RfbmFtZWAgdmFyY2hhcigzMCkgY29sbGF0ZSB1dGY4X3VuaWNvZGVfY2kgZGVmYXVsdCBOVUxMLAogICAgICAgYGxhc3RfbmFtZWAgdmFyY2hhcigzMCkgY29sbGF0ZSB1dGY4X3VuaWNvZGVfY2kgZGVmYXVsdCBOVUxMLAogICAgICAgYHN0YXJfc2lnbl9pZGAgaW50KDEwKSB1bnNpZ25lZCBkZWZhdWx0IE5VTEwsCiAgICAgICBgZ2VuZGVyYCBlbnVtKCdtYWxlJywnZmVtYWxlJywnb3RoZXInKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgZG9iYCBkYXRlIGRlZmF1bHQgTlVMTCwKICAgICAgIGBjb3VudHJ5YCB2YXJjaGFyKDEwKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgZnJvbV9lbW9yeV9kYXlgIGVudW0oJ1llcycsJ05vJykgY29sbGF0ZSB1dGY4X3VuaWNvZGVfY2kgTk9UIE5VTEwgZGVmYXVsdCAnTm8nLAogICAgICAgYHRpbWV6b25lYCB2YXJjaGFyKDUwKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgb3NgIGVudW0oJ2FuZHJvaWQnLCdpb3MnLCdmYicpIGNvbGxhdGUgdXRmOF91bmljb2RlX2NpIGRlZmF1bHQgTlVMTCwKICAgICAgIGBwdXNoX3Rva2VuYCB2YXJjaGFyKDI1NSkgY29sbGF0ZSB1dGY4X3VuaWNvZGVfY2kgZGVmYXVsdCBOVUxMLAogICAgICAgYGNyZWF0aW9uX3NvdXJjZWAgdmFyY2hhcigxMDApIGNvbGxhdGUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAogICAgICAgYHdlYl9hY2NvdW50YCBlbnVtKCdZZXMnLCdObycpIGNvbGxhdGUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMIGRlZmF1bHQgJ05vJywKICAgICAgIGB3ZWJfYWNjb3VudF9jcmVhdGVkX2F0YCBkYXRldGltZSBkZWZhdWx0IE5VTEwsCiAgICAgICBgYXBwX2luc3RhbGxlZGAgZW51bSgnWWVzJywnTm8nKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBOT1QgTlVMTCBkZWZhdWx0ICdObycsCiAgICAgICBgYXBwX2luc3RhbGxlZF9hdGAgZGF0ZXRpbWUgZGVmYXVsdCBOVUxMLAogICAgICAgYG9uX3NpbHZlcnBvcGAgZW51bSgneWVzJywnbm8nKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBOT1QgTlVMTCBkZWZhdWx0ICdubycsCiAgICAgICBgdXBkYXRlZF9vbl9zaWx2ZXJwb3BgIGVudW0oJ3llcycsJ25vJykgY29sbGF0ZSB1dGY4X3VuaWNvZGVfY2kgTk9UIE5VTEwgZGVmYXVsdCAnbm8nLAogICAgICAgYGNyZWF0ZWRfYXRgIHRpbWVzdGFtcCBOT1QgTlVMTCBkZWZhdWx0ICcwMDAwLTAwLTAwIDAwOjAwOjAwJywKICAgICAgIGB1cGRhdGVkX2F0YCB0aW1lc3RhbXAgTk9UIE5VTEwgZGVmYXVsdCAnMDAwMC0wMC0wMCAwMDowMDowMCcsCiAgICAgICBQUklNQVJZIEtFWSAgKGBzdmNfaWRgKSwKICAgICAgIFVOSVFVRSBLRVkgYGVtYWlsYCAoYGVtYWlsYCksCiAgICAgICBLRVkgYHN0YXJfc2lnbl9pZGAgKGBzdGFyX3NpZ25faWRgKSwKICAgICAgIEtFWSBgZmJfaWRgIChgZmJfaWRgKSwKICAgICAgIENPTlNUUkFJTlQgYHN2Y19pYmZrXzFgIEZPUkVJR04gS0VZIChgc3Rhcl9zaWduX2lkYCkgUkVGRVJFTkNFUyBgc3Rhcl9zaWduc2AgKGBpZGApCikgRU5HSU5FPUlubm9EQiBBVVRPX0lOQ1JFTUVOVD05MDkzMzg0IERFRkFVTFQgQ0hBUlNFVD11dGY4IENPTExBVEU9dXRmOF91bmljb2RlX2NpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBqajsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2FsbChDcmVkaXRDYXJkUm91dGluZ1RhYmxlU2VlZGVyOjpjbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">REJfQ09OTkVDVElPTj10YXJvdAo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjdXN0b21lcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2hvdyBzY2hlbWFzIDsK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSB3ZWJfbWVtYmVycwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>15</last-search>
+      <last-search>star_sign_id</last-search>
       <last-offset />
-      <last-pattern>15</last-pattern>
+      <last-pattern>star_sign_id</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>subscription_chan</entry>
         <entry>w</entry>
         <entry>call_date</entry>
         <entry encoding="base64">dGhpcy0+aW5mbw==</entry>
@@ -604,6 +606,7 @@
         <entry>how</entry>
         <entry>signup_offer_price</entry>
         <entry>15</entry>
+        <entry>star_sign_id</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
