@@ -156,7 +156,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/.env" timestamp="1540553517381">
+      <file name="C:/code/psytechdigital/automated_tasks/.env" timestamp="1540555598792">
         <mark key="'" line="64" column="27" />
       </file>
       <file name="C:/code/programming/cake/20181009Duffel/CakeType.php" timestamp="1539084937240">
@@ -165,16 +165,11 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2153ca93-254a-428c-a70d-c05a148c3b3a/console.sql" timestamp="1539603488769">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/app/Database/Tarot/CreditCardRoute.php" timestamp="1540396359368">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2153ca93-254a-428c-a70d-c05a148c3b3a/console.sql" timestamp="1540555795801">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="14" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" timestamp="1540478981234">
         <mark key="'" line="195" column="0" />
@@ -305,6 +300,9 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1540555739423">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" timestamp="1537959119574">
         <mark key="'" line="24" column="27" />
       </file>
@@ -321,11 +319,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1540396831806">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/code/psytechdigital/customer_onboarding/config/database.php" timestamp="1540396251748">
-        <mark key="'" line="35" column="19" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="47" column="9" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/app/Mail/ReaderReccomender.php" timestamp="1539874520682">
         <mark key="'" line="0" column="0" />
@@ -404,8 +397,8 @@
       <file name="C:/code/psytechdigital/automated_tasks/app/Models/Tarot/CreditCardAccounts.php" timestamp="1539875610858">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1539604598629">
-        <mark key="'" line="113" column="17" />
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" timestamp="1540554828854">
+        <mark key="'" line="101" column="42" />
       </file>
       <file name="C:/code/psytechdigital/tarot/app/index.php" timestamp="1538666350984">
         <mark key="'" line="56" column="106" />
@@ -479,10 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="41" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/CreditCardPaymentPlanSeeder.php" />
-      <jump line="51" column="41" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/CreditCardPaymentPlanSeeder.php" />
-      <jump line="1" column="11" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
-      <jump line="19" column="0" filename="C:/code/psytechdigital/customer_onboarding/app/Repositories/EloquentBrokerRepository.php" />
       <jump line="56" column="73" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
       <jump line="67" column="0" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
       <jump line="73" column="0" filename="C:/code/psytechdigital/customer_onboarding/app/Database/Tarot/CreditCardRoute.php" />
@@ -579,64 +568,67 @@
       <jump line="64" column="27" filename="C:/code/psytechdigital/automated_tasks/.env" />
       <jump line="0" column="0" filename="C:/code/psytechdigital/automated_tasks/database/migrations/marketing_stats/2018_10_26_124159_add_fb_id_to_email_customers.php" />
       <jump line="31" column="0" filename="C:/code/psytechdigital/automated_tasks/database/migrations/2018_10_26_123558_add_fb_id_to_email_customers.php" />
+      <jump line="120" column="61" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
+      <jump line="97" column="48" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
+      <jump line="95" column="49" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
+      <jump line="101" column="42" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text>date_of</text>
+        <text>email_customers</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKAogICAgICAgICAgICAnZW1haWxfY3VzdG9tZXJzJywKICAgICAgICAgICAgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdmYl9pZCcsIDI1NSktPm51bGxhYmxlKCktPmFmdGVyKCdhcHBfaW5zdGFsbGVkX2F0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIG1hcmtldGluZ19zdGF0cwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKAogICAgICAgICAgICAnZW1haWxfY3VzdG9tZXJzJywKICAgICAgICAgICAgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgICAgIC8vCiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBgYDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdlbWFpbF9jdXN0b21lcnMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAvLwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKAogICAgICAgICAgICAnZW1haWxfY3VzdG9tZXJzJywKICAgICAgICAgICAgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgICAgIC8vCiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5hZGRDb2x1bW4oJ3N0cmluZycsICdmYl9pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdlbWFpbF9jdXN0b21lcnMnLCBmdW5jdGlvbiAoQmx1ZXByaW50ICR0YWJsZSkgewogICAgICAgICAgICAvLwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5hZGRDb2x1bW4oJ3N0cmluZycsICdmYl9pZCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgY29sLW1kLTEyIGNvbC1zbS0xMiBjb2wteHMtMTIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1tZC00IGNvbC1zbS00Ij4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTQgY29sLXNtLTQiPgoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCBjb2wtc20tNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0icmFkaW8taW5saW5lIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0icmFkaW8td2ViLWN1c3RvbWVyLWRldGFpbHMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IkN1c3RvbWVyUmVmdXNlZFRvR2l2ZURhdGVPZkJpcnRoIj5DdXN0b21lciBkaWRuJ3Qgd2FudCB0byBnaXZlIERPQgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>date_of</last-search>
+      <last-search>email_customers</last-search>
       <last-offset />
-      <last-pattern>date_of</last-pattern>
+      <last-pattern>email_customers</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>signup_offer_price</entry>
         <entry>15</entry>
         <entry>star_sign_id</entry>
         <entry>Date</entry>
@@ -656,6 +648,7 @@
         <entry>web_date_of</entry>
         <entry>star_sign</entry>
         <entry>date_of</entry>
+        <entry>email_customers</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
