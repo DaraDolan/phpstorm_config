@@ -327,11 +327,12 @@
         <mark key="." line="31" column="45" />
         <mark key="^" line="31" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1540553965549">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="165" column="20" />
-        <mark key="." line="165" column="20" />
-        <mark key="^" line="165" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1540562276875">
+        <mark key="'" line="177" column="0" />
+        <mark key="[" line="225" column="12" />
+        <mark key="]" line="225" column="12" />
+        <mark key="." line="225" column="12" />
+        <mark key="^" line="213" column="11" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAccount.php" timestamp="1540304568701">
         <mark key="'" line="219" column="0" />
@@ -388,6 +389,9 @@
       </file>
       <file name="C:/code/psytechdigital/tarot/old_config/config.php" timestamp="1538666768960">
         <mark key="'" line="40" column="8" />
+      </file>
+      <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/CustomerTableSeeder.php" timestamp="1540561384552">
+        <mark key="'" line="15" column="27" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/classes/Database/Models/Tarot/SVC.php" timestamp="1538653904794">
         <mark key="[" line="2" column="0" />
@@ -472,8 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="73" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
-      <jump line="67" column="0" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
       <jump line="73" column="0" filename="C:/code/psytechdigital/customer_onboarding/app/Database/Tarot/CreditCardRoute.php" />
       <jump line="73" column="254" filename="C:/code/psytechdigital/customer_onboarding/storage/logs/laravel.log" />
       <jump line="24" column="0" filename="C:/code/psytechdigital/customer_onboarding/app/Database/Tarot/CreditCardRoute.php" />
@@ -572,19 +574,21 @@
       <jump line="97" column="48" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="95" column="49" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="101" column="42" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
+      <jump line="15" column="27" filename="C:/code/psytechdigital/customer_onboarding/database/seeds/CustomerTableSeeder.php" />
+      <jump line="177" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>onboarding_tarot_dev.</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>onboarding_tarot_dev.</text>
       </register>
       <register name="/" type="4">
-        <text>email_customers</text>
+        <text>6198023</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKAogICAgICAgICAgICAnZW1haWxfY3VzdG9tZXJzJywKICAgICAgICAgICAgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsKICAgICAgICAgICAgICAgICR0YWJsZS0+c3RyaW5nKCdmYl9pZCcsIDI1NSktPm51bGxhYmxlKCktPmFmdGVyKCdhcHBfaW5zdGFsbGVkX2F0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
@@ -621,16 +625,14 @@
       </register>
     </registers>
     <search>
-      <last-search>email_customers</last-search>
+      <last-search>6198023</last-search>
       <last-offset />
-      <last-pattern>email_customers</last-pattern>
+      <last-pattern>6198023</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>15</entry>
-        <entry>star_sign_id</entry>
         <entry>Date</entry>
         <entry>date</entry>
         <entry>card_details_panel</entry>
@@ -649,6 +651,8 @@
         <entry>star_sign</entry>
         <entry>date_of</entry>
         <entry>email_customers</entry>
+        <entry>0876198023</entry>
+        <entry>6198023</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
