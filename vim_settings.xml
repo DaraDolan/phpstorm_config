@@ -156,8 +156,8 @@
         <mark key="^" line="4" column="50" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/WebCountrySeeder.php" timestamp="1540565623002" />
-      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1540290254668">
-        <mark key="'" line="144" column="0" />
+      <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" timestamp="1540917060568">
+        <mark key="'" line="117" column="23" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="40" />
         <mark key="^" line="149" column="41" />
@@ -436,7 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="52" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="57" column="81" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="49" column="83" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/CreditCardController.php" />
       <jump line="365" column="68" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
@@ -536,6 +535,7 @@
       <jump line="107" column="55" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="109" column="31" filename="C:/code/psytechdigital/automated_tasks/app/Console/Kernel.php" />
       <jump line="109" column="16" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateSVCSubscriptions.php" />
+      <jump line="117" column="23" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/controllers/SocialFacebookRegisterController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
