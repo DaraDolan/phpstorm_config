@@ -44,11 +44,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="45" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540979919451">
-        <mark key="[" line="770" column="23" />
-        <mark key="]" line="771" column="26" />
-        <mark key="." line="771" column="26" />
-        <mark key="^" line="771" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540995599812">
+        <mark key="[" line="761" column="24" />
+        <mark key="]" line="761" column="24" />
+        <mark key="." line="761" column="24" />
+        <mark key="^" line="761" column="24" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/database/migrations/referral/2018_07_30_101031_create_referral_awards_table.php" timestamp="1540565092791">
         <mark key="[" line="16" column="0" />
@@ -446,10 +446,10 @@
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
