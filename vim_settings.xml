@@ -80,11 +80,11 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="45" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1540998655355">
-        <mark key="[" line="783" column="8" />
-        <mark key="]" line="784" column="29" />
-        <mark key="." line="784" column="29" />
-        <mark key="^" line="784" column="29" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1541069577225">
+        <mark key="[" line="765" column="17" />
+        <mark key="]" line="765" column="18" />
+        <mark key="." line="765" column="18" />
+        <mark key="^" line="765" column="18" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/database/migrations/referral/2018_07_30_101031_create_referral_awards_table.php" timestamp="1540565092791">
         <mark key="[" line="16" column="0" />
@@ -395,7 +395,7 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateEmailLists.php" timestamp="1540998300127">
+      <file name="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CRM/CreateEmailLists.php" timestamp="1541069513474">
         <mark key="'" line="14" column="32" />
         <mark key="[" line="67" column="79" />
         <mark key="]" line="67" column="79" />
@@ -591,10 +591,10 @@
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>email</text>
