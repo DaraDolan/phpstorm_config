@@ -87,11 +87,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="45" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1541069577225">
-        <mark key="[" line="765" column="17" />
-        <mark key="]" line="765" column="18" />
-        <mark key="." line="765" column="18" />
-        <mark key="^" line="765" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1541090064928">
+        <mark key="'" line="789" column="5" />
+        <mark key="[" line="807" column="37" />
+        <mark key="]" line="807" column="37" />
+        <mark key="." line="807" column="37" />
+        <mark key="^" line="808" column="4" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/database/migrations/referral/2018_07_30_101031_create_referral_awards_table.php" timestamp="1540565092791">
         <mark key="[" line="16" column="0" />
@@ -508,8 +509,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="63" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
-      <jump line="293" column="69" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="294" column="88" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="452" column="45" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="564" column="0" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
@@ -608,16 +607,18 @@
       <jump line="37" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
       <jump line="51" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
       <jump line="38" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
+      <jump line="770" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
+      <jump line="789" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>messages</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>BILLING</text>
