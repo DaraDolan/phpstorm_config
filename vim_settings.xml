@@ -357,11 +357,11 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541082500833">
-        <mark key="[" line="30" column="29" />
-        <mark key="]" line="30" column="32" />
-        <mark key="." line="30" column="32" />
-        <mark key="^" line="30" column="32" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541083212421">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539866320814">
         <mark key="[" line="26" column="31" />
@@ -613,10 +613,10 @@
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>BILLING</text>
