@@ -357,11 +357,12 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541083212421">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
-        <mark key="^" line="42" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541087217077">
+        <mark key="'" line="36" column="53" />
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="24" />
+        <mark key="^" line="85" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539866320814">
         <mark key="[" line="26" column="31" />
@@ -507,9 +508,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="76" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
-      <jump line="247" column="69" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
-      <jump line="219" column="78" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="220" column="63" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="293" column="69" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="294" column="88" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
@@ -607,16 +605,19 @@
       <jump line="491" column="4" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
       <jump line="141" column="0" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
       <jump line="150" column="0" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
+      <jump line="37" column="18" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
+      <jump line="51" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
+      <jump line="38" column="53" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>BILLING</text>
@@ -628,28 +629,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YW5kIHBob25lX251bWJlciBJUyBOVUxMOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
+        <text encoding="base64">YW5kIHBob25lX251bWJlciBJUyBOVUxMOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">REJfVEFST1RfQVBQX0hPU1RfQkQ9MTkyLjE2OC4xMC4xMApEQl9UQVJPVF9BUFBfUE9SVD0zMzA2CkRCX1RBUk9UX0FQUF9VU0VSTkFNRT1ob21lc3RlYWQKREJfVEFST1RfQVBQX1BBU1NXT1JEPXNlY3JldApEQl9UQVJPVF9BUFBfTkFNRT10YXJvdF9hcHBfZGV2Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U0VTU0lPTl9EUklWRVI9ZmlsZXN5c3RlbQo=</text>
+        <text encoding="base64">REJfVEFST1RfQVBQX0hPU1RfQkQ9MTkyLjE2OC4xMC4xMApEQl9UQVJPVF9BUFBfUE9SVD0zMzA2CkRCX1RBUk9UX0FQUF9VU0VSTkFNRT1ob21lc3RlYWQKREJfVEFST1RfQVBQX1BBU1NXT1JEPXNlY3JldApEQl9UQVJPVF9BUFBfTkFNRT10YXJvdF9hcHBfZGV2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3JkZXIgYnkgY3JlYXRlZF9hdCBkZXNjOwo=</text>
+        <text encoding="base64">U0VTU0lPTl9EUklWRVI9ZmlsZXN5c3RlbQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9ucwp3aGVyZSBzdmNfaWQgPSAyMjI7Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgY3JlYXRlZF9hdCBkZXNjOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2hvdyBjcmVhdGUgdGFibGUgc3ZjX3N1YnNjcmlwdGlvbnM7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9ucwp3aGVyZSBzdmNfaWQgPSAyMjI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
