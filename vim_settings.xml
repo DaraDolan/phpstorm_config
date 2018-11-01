@@ -41,6 +41,13 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
+      <file name="C:/code/psytechdigital/dashboard/.env" timestamp="1541075649808">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="1" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="37" column="0" />
+      </file>
       <file name="C:/code/psytechdigital/customer_onboarding/.env" timestamp="1540396176169">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="18" column="23" />
@@ -89,6 +96,13 @@
       <file name="C:/code/psytechdigital/automated_tasks/database/migrations/referral/2018_07_30_101031_create_referral_awards_table.php" timestamp="1540565092791">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="26" column="9" />
+      </file>
+      <file name="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" timestamp="1541076219578">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="138" column="84" />
+        <mark key="]" line="138" column="42" />
+        <mark key="." line="138" column="42" />
+        <mark key="^" line="138" column="42" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/CreditCardAccountSeeder.php" timestamp="1540380859158">
         <mark key="[" line="51" column="21" />
@@ -160,12 +174,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1540902171349">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94204028-a66e-469f-a6a7-14ad13d368e5/console.sql" timestamp="1541075127630">
         <mark key="'" line="130" column="13" />
-        <mark key="[" line="226" column="12" />
-        <mark key="]" line="226" column="12" />
-        <mark key="." line="226" column="12" />
-        <mark key="^" line="226" column="188" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="229" column="10" />
+        <mark key="." line="229" column="10" />
+        <mark key="^" line="229" column="10" />
       </file>
       <file name="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAccount.php" timestamp="1540304568701">
         <mark key="'" line="219" column="0" />
@@ -402,11 +416,19 @@
         <mark key="." line="67" column="79" />
         <mark key="^" line="70" column="38" />
       </file>
-      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1539093081535">
-        <mark key="'" line="125" column="27" />
+      <file name="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" timestamp="1541075636671">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="53" column="31" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/Tarot/EventTypesTableSeeder.php" timestamp="1538655475308">
         <mark key="'" line="219" column="0" />
+      </file>
+      <file name="C:/code/psytechdigital/dashboard/.env.example" timestamp="1541074974677">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="^" line="24" column="27" />
       </file>
       <file name="C:/code/psytechdigital/customer_onboarding/database/seeds/CreditCardPaymentPlanSeeder.php" timestamp="1540389616695">
         <mark key="'" line="51" column="41" />
@@ -485,15 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="49" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/WebAccountController.php" />
-      <jump line="158" column="42" filename="C:/code/psytechdigital/customer_onboarding/app/Http/Controllers/WebAccountController.php" />
-      <jump line="743" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
-      <jump line="32" column="49" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
-      <jump line="0" column="0" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/take-email.js" />
-      <jump line="182" column="16" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
-      <jump line="50" column="0" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
-      <jump line="435" column="83" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
-      <jump line="167" column="52" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="198" column="76" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="247" column="69" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
       <jump line="219" column="78" filename="C:/code/psytechdigital/customer_onboarding/resources/views/creditcard/take_payment.blade.php" />
@@ -585,66 +598,72 @@
       <jump line="41" column="27" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" />
       <jump line="68" column="24" filename="C:/code/psytechdigital/tarot_api/tarot_api/.env" />
       <jump line="21" column="0" filename="C:/code/psytechdigital/tarot_api/tarot_api/private/models/DBAuth.php" />
+      <jump line="35" column="0" filename="C:/code/psytechdigital/dashboard/.env" />
+      <jump line="13" column="0" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
+      <jump line="91" column="10" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
+      <jump line="92" column="10" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
+      <jump line="101" column="0" filename="C:/code/psytechdigital/tarot_admin/tarot_admin/.env" />
+      <jump line="0" column="0" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
+      <jump line="491" column="4" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
+      <jump line="141" column="0" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
+      <jump line="150" column="0" filename="C:/code/psytechdigital/dashboard/app/Http/Controllers/ReadersController.php" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>database</text>
       </register>
       <register name="/" type="4">
-        <text>email</text>
+        <text>BILLING</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NoZWR1bGUtPmNvbW1hbmQoJ3JlZmVycmFsOmdlbmVyYXRlLXJlZmVycmFsLWNvZGUnKQogICAgICAgICAgICAtPmV2ZXJ5VGhpcnR5TWludXRlcygpLT5hcHBlbmRPdXRwdXRUbyhzdG9yYWdlX3BhdGgoJ2xvZ3MvcmVmZXJyYWxfY29kZS5sb2cnKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JkZXIgYnkgY3JlYXRlZF9hdCBkZXNjOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9ucwp3aGVyZSBzdmNfaWQgPSAyMjI7Cg==</text>
+        <text encoding="base64">REJfVEFST1RfQVBQX0hPU1RfQkQ9MTkyLjE2OC4xMC4xMApEQl9UQVJPVF9BUFBfUE9SVD0zMzA2CkRCX1RBUk9UX0FQUF9VU0VSTkFNRT1ob21lc3RlYWQKREJfVEFST1RfQVBQX1BBU1NXT1JEPXNlY3JldApEQl9UQVJPVF9BUFBfTkFNRT10YXJvdF9hcHBfZGV2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2hvdyBjcmVhdGUgdGFibGUgc3ZjX3N1YnNjcmlwdGlvbnM7Cg==</text>
+        <text encoding="base64">U0VTU0lPTl9EUklWRVI9ZmlsZXN5c3RlbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JkZXIgYnkgY3JlYXRlZF9hdCBkZXNjOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzdmNfc3Vic2NyaXB0aW9ucwp3aGVyZSBzdmNfaWQgPSAyMjI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBmYWNlYm9va19hY2NvdW50c2AgKAogIGBmYl9pZGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAogIGBmYl90b2tlbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAogIGBhY2NvdW50X251bWJlcmAgdmFyY2hhcig1KSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYHRhcm90X21pbnV0ZXNgIHNtYWxsaW50KDUpIHVuc2lnbmVkIE5PVCBOVUxMIERFRkFVTFQgJzAnLAogIGBlbWFpbGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgZmlyc3RfbmFtZWAgdmFyY2hhcig1MCkgQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgREVGQVVMVCBOVUxMLAogIGBsYXN0X25hbWVgIHZhcmNoYXIoNTApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgZ2VuZGVyYCB2YXJjaGFyKDIwKSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYGRvYmAgdmFyY2hhcigxMikgQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgREVGQVVMVCBOVUxMLAogIGBwaG9uZV9udW1iZXJgIHZhcmNoYXIoMjUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgcGFzc3dvcmRgIGNoYXIoMjU1KSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYGVtYWlsX29uX3NpbHZlcnBvcGAgZW51bSgnbm8nLCd5ZXMnKSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBOT1QgTlVMTCBERUZBVUxUICdubycsCiAgYGNyZWF0ZWRfYXRgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUICcwMDAwLTAwLTAwIDAwOjAwOjAwJywKICBgdXBkYXRlZF9hdGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAogIFBSSU1BUlkgS0VZIChgZmJfaWRgKSwKICBLRVkgYGZhY2Vib29rX2FjY291bnRzX2ZiX2lkX2ZiX3Rva2VuX2luZGV4YCAoYGZiX2lkYCxgZmJfdG9rZW5gKSwKICBLRVkgYGZhY2Vib29rX2FjY291bnRzX2VtYWlsX29uX3NpbHZlcnBvcF9pbmRleGAgKGBlbWFpbF9vbl9zaWx2ZXJwb3BgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09MTEFURT11dGY4X3VuaWNvZGVfY2k7Cg==</text>
+        <text encoding="base64">c2hvdyBjcmVhdGUgdGFibGUgc3ZjX3N1YnNjcmlwdGlvbnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3ZjX2xpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBzdmNfc3Vic2NyaXB0aW9uc2AgKAogICAgICAgYHN2Y19zdWJzY3JpcHRpb25zX2lkYCBpbnQoMTApIHVuc2lnbmVkIE5PVCBOVUxMIGF1dG9faW5jcmVtZW50LAogICAgICAgYHN2Y19pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCwKICAgICAgIGBzdWJzY3JpcHRpb25fY2hhbm5lbF9pZGAgaW50KDEwKSB1bnNpZ25lZCBOT1QgTlVMTCwKICAgICAgIGBvcHRlZF9pbmAgZW51bSgneWVzJywnbm8nKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBOT1QgTlVMTCwKICAgICAgIGB1cGRhdGVkX29uX3NpbHZlcnBvcGAgZW51bSgneWVzJywnbm8nKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgdXBkYXRlZF9vbl9wYXJzZWAgZW51bSgneWVzJywnbm8nKSBjb2xsYXRlIHV0ZjhfdW5pY29kZV9jaSBkZWZhdWx0IE5VTEwsCiAgICAgICBgY3JlYXRlZF9hdGAgdGltZXN0YW1wIE5PVCBOVUxMIGRlZmF1bHQgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAogICAgICAgYHVwZGF0ZWRfYXRgIHRpbWVzdGFtcCBOT1QgTlVMTCBkZWZhdWx0ICcwMDAwLTAwLTAwIDAwOjAwOjAwJywKICAgICAgIFBSSU1BUlkgS0VZICAoYHN2Y19zdWJzY3JpcHRpb25zX2lkYCksCiAgICAgICBLRVkgYHN2Y19pZGAgKGBzdmNfaWRgKSwKICAgICAgIEtFWSBgc3Vic2NyaXB0aW9uX2NoYW5uZWxfaWRgIChgc3Vic2NyaXB0aW9uX2NoYW5uZWxfaWRgKSwKICAgICAgIENPTlNUUkFJTlQgYHN2Y19zdWJzY3JpcHRpb25zX2liZmtfMWAgRk9SRUlHTiBLRVkgKGBzdmNfaWRgKSBSRUZFUkVOQ0VTIGBzdmNgIChgc3ZjX2lkYCkgT04gREVMRVRFIENBU0NBREUgT04gVVBEQVRFIENBU0NBREUsCiAgICAgICBDT05TVFJBSU5UIGBzdmNfc3Vic2NyaXB0aW9uc19pYmZrXzJgIEZPUkVJR04gS0VZIChgc3Vic2NyaXB0aW9uX2NoYW5uZWxfaWRgKSBSRUZFUkVOQ0VTIGBzdWJzY3JpcHRpb25fY2hhbm5lbHNgIChgc3Vic2NyaXB0aW9uX2NoYW5uZWxfaWRgKQopIEVOR0lORT1Jbm5vREIgQVVUT19JTkNSRU1FTlQ9MjY2MTQ2NTQgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09MTEFURT11dGY4X3VuaWNvZGVfY2k7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcQ29uc29sZVxDb21tYW5kOwo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGBmYWNlYm9va19hY2NvdW50c2AgKAogIGBmYl9pZGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAogIGBmYl90b2tlbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIE5PVCBOVUxMLAogIGBhY2NvdW50X251bWJlcmAgdmFyY2hhcig1KSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYHRhcm90X21pbnV0ZXNgIHNtYWxsaW50KDUpIHVuc2lnbmVkIE5PVCBOVUxMIERFRkFVTFQgJzAnLAogIGBlbWFpbGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgZmlyc3RfbmFtZWAgdmFyY2hhcig1MCkgQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgREVGQVVMVCBOVUxMLAogIGBsYXN0X25hbWVgIHZhcmNoYXIoNTApIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgZ2VuZGVyYCB2YXJjaGFyKDIwKSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYGRvYmAgdmFyY2hhcigxMikgQ09MTEFURSB1dGY4X3VuaWNvZGVfY2kgREVGQVVMVCBOVUxMLAogIGBwaG9uZV9udW1iZXJgIHZhcmNoYXIoMjUpIENPTExBVEUgdXRmOF91bmljb2RlX2NpIERFRkFVTFQgTlVMTCwKICBgcGFzc3dvcmRgIGNoYXIoMjU1KSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBERUZBVUxUIE5VTEwsCiAgYGVtYWlsX29uX3NpbHZlcnBvcGAgZW51bSgnbm8nLCd5ZXMnKSBDT0xMQVRFIHV0ZjhfdW5pY29kZV9jaSBOT1QgTlVMTCBERUZBVUxUICdubycsCiAgYGNyZWF0ZWRfYXRgIHRpbWVzdGFtcCBOT1QgTlVMTCBERUZBVUxUICcwMDAwLTAwLTAwIDAwOjAwOjAwJywKICBgdXBkYXRlZF9hdGAgdGltZXN0YW1wIE5PVCBOVUxMIERFRkFVTFQgJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAogIFBSSU1BUlkgS0VZIChgZmJfaWRgKSwKICBLRVkgYGZhY2Vib29rX2FjY291bnRzX2ZiX2lkX2ZiX3Rva2VuX2luZGV4YCAoYGZiX2lkYCxgZmJfdG9rZW5gKSwKICBLRVkgYGZhY2Vib29rX2FjY291bnRzX2VtYWlsX29uX3NpbHZlcnBvcF9pbmRleGAgKGBlbWFpbF9vbl9zaWx2ZXJwb3BgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjggQ09MTEFURT11dGY4X3VuaWNvZGVfY2k7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>email</last-search>
+      <last-search>BILLING</last-search>
       <last-offset />
-      <last-pattern>email</last-pattern>
+      <last-pattern>BILLING</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>card_details_panel</entry>
-        <entry>$</entry>
-        <entry>\$</entry>
         <entry>star_signs</entry>
         <entry>add_web_account</entry>
         <entry>web</entry>
@@ -662,6 +681,9 @@
         <entry>6198023</entry>
         <entry>subscription_ch</entry>
         <entry>email</entry>
+        <entry>w</entry>
+        <entry>APP</entry>
+        <entry>BILLING</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
