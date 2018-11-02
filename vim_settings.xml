@@ -94,12 +94,10 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="45" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1541090064928">
-        <mark key="'" line="789" column="5" />
-        <mark key="[" line="807" column="37" />
-        <mark key="]" line="807" column="37" />
-        <mark key="." line="807" column="37" />
-        <mark key="^" line="808" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" timestamp="1541160328331">
+        <mark key="[" line="786" column="0" />
+        <mark key="]" line="786" column="0" />
+        <mark key="." line="786" column="0" />
       </file>
       <file name="C:/code/psytechdigital/automated_tasks/database/migrations/referral/2018_07_30_101031_create_referral_awards_table.php" timestamp="1540565092791">
         <mark key="[" line="16" column="0" />
@@ -366,12 +364,12 @@
         <mark key="." line="58" column="15" />
         <mark key="^" line="58" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541088399087">
-        <mark key="'" line="36" column="53" />
-        <mark key="[" line="108" column="11" />
-        <mark key="]" line="108" column="19" />
-        <mark key="." line="108" column="19" />
-        <mark key="^" line="108" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" timestamp="1541160740318">
+        <mark key="'" line="94" column="27" />
+        <mark key="[" line="119" column="39" />
+        <mark key="]" line="120" column="39" />
+        <mark key="." line="120" column="39" />
+        <mark key="^" line="120" column="39" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/135938ca-8a0c-4a30-9b8a-6170e714e424/console.sql" timestamp="1539866320814">
         <mark key="[" line="26" column="31" />
@@ -517,8 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="821" column="9" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
-      <jump line="93" column="28" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
       <jump line="555" column="17" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
       <jump line="460" column="28" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
       <jump line="196" column="0" filename="C:/code/psytechdigital/customer_onboarding/resources/assets/js/payment.js" />
@@ -617,16 +613,18 @@
       <jump line="64" column="21" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardQuestions.php" />
       <jump line="59" column="53" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardQuestions.php" />
       <jump line="151" column="104" filename="C:/code/psytechdigital/automated_tasks/app/Console/Commands/CS/AwardQuestions.php" />
+      <jump line="786" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/727cea24-bb2d-418d-9829-91711edbd38a/console.sql" />
+      <jump line="94" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/98c2573f-ef97-4541-856b-78d641cf78f4/console.sql" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAkZW5jcnlwdGVkX2NhcmRfbnVtYmVyID0gJ0JVTzZESWZDQWVSY084L3R3Q1kwTHl6N0ozUEZSL0lUTmx2amZLT0ZBRG89JzsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGhhbmtzJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3JlYXRlZF9hdCA=</text>
       </register>
       <register name="-" type="4">
-        <text>questions</text>
+        <text encoding="base64">Y3JlYXRlZF9hdCA=</text>
       </register>
       <register name="/" type="4">
         <text>BILLING</text>
@@ -635,31 +633,31 @@
         <text encoding="base64">ICAgICAgICAkY29udGludWUgPSAkdGhpcy0+Y2hvaWNlKCRjb25maXJtYXRpb25fbWVzc2FnZSwgWyd5ZXMnLCAnbm8nXSwgMSk7CgogICAgICAgIGlmICgkY29udGludWUgIT09ICd5ZXMnKSB7CiAgICAgICAgICAgICR0aGlzLT53YXJuKCdXZSB3aWxsIG5vdCBhcHBseSBtaW51dGVzJyk7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgndGhhbmtzJyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBjdXN0b21lcl9zZXJ2aWNlX3VzZXJzCndoZXJlIGVtYWlsIElOKAogICAgJ2xjcm9uaW5AYWMuYXJlbWFjb25uZWN0LmNvbScsCiAgICAgICAgJ3NzaGVlaGFuQGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICd0bWNzd2VlbmV5QGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdOaWNvbGVNb3JyaXNzZXlAY2suY2FsbG1hbmFnZW1lbnQuaWUnLAogICAgICAgICdsb3N1bGxpdmFuQGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdsYnJvb2tzQGNrLmNhbGxtYW5hZ2VtZW50LmllJywKICAgICAgICAnZ2hvbGx5QGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdybWNhdWxpZmZlQGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdhb2thbmVAYWMuYXJlbWFjb25uZWN0LmNvbScsCiAgICAgICAgJ2tvY29ubmVsbEBjay5jYWxsbWFuYWdlbWVudC5pZScsCiAgICAgICAgJ2JidWpkYXN6QGFjLmFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdhbGVuaWhhbkBjay5jYWxsbWFuYWdlbWVudC5pZScsCiAgICAgICAgJ29idXJrZUBhYy5hcmVtYWNvbm5lY3QuY29tJywKICAgICAgICAndGdhaGFuQGNrLmNhbGxtYW5hZ2VtZW50LmllJywKICAgICAgICAnbG1jZG9ubmVsbEBjay5jYWxsbWFuYWdlbWVudC5pZScsCiAgICAgICAgJ2JrdW1pQGFyZW1hY29ubmVjdC5jb20nLAogICAgICAgICdib2thbmVAYXJlbWFjb25uZWN0LmNvbScsCiAgICAgICAgJ0xvdWlzZURpbGxpb25AY2suY2FsbG1hbmFnZW1lbnQuaWUnLAogICAgICAgICdjYmFycnlAY2suY2FsbG1hbmFnZW1lbnQuaWUnCiAgICApCm9yZGVyIGJ5IGVtYWlsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIExlYWd1ZVxDc3ZcV3JpdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgndGhhbmtzJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgbWVzc2FnZV9pZCA9IDsK</text>
+        <text encoding="base64">dXNlIExlYWd1ZVxDc3ZcV3JpdGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2hlcmUgbWVzc2FnZV9pZCA9IDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YW5kIHBob25lX251bWJlciBJUyBOVUxMOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
+        <text encoding="base64">YW5kIHBob25lX251bWJlciBJUyBOVUxMOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">REJfVEFST1RfQVBQX0hPU1RfQkQ9MTkyLjE2OC4xMC4xMApEQl9UQVJPVF9BUFBfUE9SVD0zMzA2CkRCX1RBUk9UX0FQUF9VU0VSTkFNRT1ob21lc3RlYWQKREJfVEFST1RfQVBQX1BBU1NXT1JEPXNlY3JldApEQl9UQVJPVF9BUFBfTkFNRT10YXJvdF9hcHBfZGV2Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgnSSBhbSBoZXJlJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -741,6 +739,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
